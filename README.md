@@ -2,8 +2,8 @@
 <!-- Teng Li's Personal Website on GitHub -->
 <!-- This content will not appear in the rendered Markdown -->
 # Teng Li's Homepage
-$\color{red} teng4.github.io$
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+$\color{gray} teng4.github.io$
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
 
 # About Me - Teng Li
