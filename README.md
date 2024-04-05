@@ -4,7 +4,7 @@
 # Teng Li's Homepage
 $\color{gray} teng4.github.io$
 
-$\color{gray} This site was built using$ [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://pages.github.com/).
 <!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
 
