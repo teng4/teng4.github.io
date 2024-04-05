@@ -2,7 +2,7 @@
 <!-- Teng Li's Personal Website on GitHub -->
 <!-- This content will not appear in the rendered Markdown -->
 # Teng Li's Homepage
-`rgb(9, 105, 218)` teng4.github.io
+\color{red} teng4.github.io
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 
