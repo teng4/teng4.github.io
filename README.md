@@ -15,9 +15,9 @@ Teng Li received his M.E. degree in Mechanical Manufacturing and Automation from
 Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction ($p$HRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
 
 # Publications
-[1] Teng Li, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. {\color{brown}(with a 3DOF PHANToM Premium 1.5A robot)} [Accepted]
+[1] Teng Li, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. ${\color{brown}(with a 3DOF PHANToM Premium 1.5A robot)}$ [Accepted]
 
-[2] Teng Li, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. (with a 3DOF PHANToM Premium 1.5A robot) \href{https://doi.org/10.1017/S0263574723001091}{[Robotica OA]} \href{https://www.youtube.com/watch?v=6ePnym57jPU}{[Demo Video]}
+[2] Teng Li, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. (with a 3DOF PHANToM Premium 1.5A robot) [Robotica OA](https://doi.org/10.1017/S0263574723001091) [Demo Video] (https://www.youtube.com/watch?v=6ePnym57jPU)
 
 # Contents
 This demo folder includes, 
