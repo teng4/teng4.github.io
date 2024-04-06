@@ -12,7 +12,7 @@
 
 
 <!-- # Teng Li -->
-(he/him)
+(he/him) | <code style="color : red">text color test</code>
 
 PhD Candidate | Email: teng4ATualberta.ca
 
