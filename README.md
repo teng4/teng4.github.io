@@ -4,7 +4,8 @@
 # Teng Li's Homepage
 ${\color{gray} teng4.github.io}$
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website).
+<!-- This site was built using [GitHub Pages](https://pages.github.com/). -->
 <!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
 
@@ -27,18 +28,18 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 
 # Publications (conferences)
-[1] **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics ${\color{gray} (AIM \space 2023)}$, June 28-30, Seattle, Washington, USA, 2023. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130) [Demo Video](https://youtu.be/ROSREHC9zU0)]
+1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics ${\color{gray} (AIM \space 2023)}$, June 28-30, Seattle, Washington, USA, 2023. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]
 
-[1] **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Neural Network Learning of Robot Dynamic Uncertainties and Observer-Based External Disturbance Estimation for Impedance Control". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics ${\color{gray} (AIM \space 2023)}$, June 28-30, Seattle, Washington, USA, 2023. pp. 591-597. DOI: 10.1109/AIM46323.2023.10196132. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196132)]
+1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Neural Network Learning of Robot Dynamic Uncertainties and Observer-Based External Disturbance Estimation for Impedance Control". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics ${\color{gray} (AIM \space 2023)}$, June 28-30, Seattle, Washington, USA, 2023. pp. 591-597. DOI: 10.1109/AIM46323.2023.10196132. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196132)]
 
-[1] **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ${\color{gray} (IROS \space 2022)}$, October 23-27, Kyoto, Japan, 2022, pp. 11172-11179. doi: 10.1109/IROS47612.2022.9981208. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981208)] [[Demo Video](https://youtu.be/f54Iah0yuWk)]
+1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ${\color{gray} (IROS \space 2022)}$, October 23-27, Kyoto, Japan, 2022, pp. 11172-11179. doi: 10.1109/IROS47612.2022.9981208. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981208)] [[Demo Video](https://youtu.be/f54Iah0yuWk)]
 
-[1] **Teng Li**, Hongjun Xing, Hamid D. Taghirad, and Mahdi Tavakoli. "EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ${\color{gray} (IROS \space 2022)}$, October 23-27, Kyoto, Japan, 2022, pp. 670-675. doi: 10.1109/IROS47612.2022.9981615. ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981615)] [[Demo Video](https://youtu.be/kgMYiFkA3qk)]
+1. **Teng Li**, Hongjun Xing, Hamid D. Taghirad, and Mahdi Tavakoli. "EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems ${\color{gray} (IROS \space 2022)}$, October 23-27, Kyoto, Japan, 2022, pp. 670-675. doi: 10.1109/IROS47612.2022.9981615. ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981615)] [[Demo Video](https://youtu.be/kgMYiFkA3qk)]
 
-[1] **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems ${\color{gray} (ICAS \space 2021)}$, August 11-13, Montreal, QC, Canada, 2021, pp. 1–5. ${\color{brown}(with \space a \space 4DOF \space planar \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]
+1. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems ${\color{gray} (ICAS \space 2021)}$, August 11-13, Montreal, QC, Canada, 2021, pp. 1–5. ${\color{brown}(with \space a \space 4DOF \space planar \space robot)}$ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]
 
 
 # Versions
-Created 2024-04-15
-~~ Created 2024-04-15 ~~
+Updated 2024-04-05
 
+~~Created 2024-04-05~~
