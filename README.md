@@ -4,7 +4,7 @@
 <!-- # Teng Li's Homepage -->
 <!-- ${\color{gray} teng4.github.io}$ -->
 
-[[Homepage](teng4.github.io)]
+[[Teng's Homepage](teng4.github.io)]
 
 <!-- This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website). -->
 <!-- This site was built using [GitHub Pages](https://pages.github.com/). -->
@@ -12,14 +12,11 @@
 
 
 <!-- # Teng Li -->
-# Teng Li
 (he/him)
 
-PhD Candidate 
+PhD Candidate | Email: teng4ATualberta.ca
 
-University of Alberta, Edmonton, AB, Canada
-
-Email: teng4ATualberta.ca
+University of Alberta, Edmonton, AB, Canada |
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://teng4.github.io/teng4_Papers/20240404_TengLi_CV.pdf)
 
