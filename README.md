@@ -12,11 +12,13 @@
 
 
 <!-- # Teng Li -->
-<p> Quack quack <text style="color: red">ERROR</text> </p>
+<!-- <p> Quack quack <text style="color: red">ERROR</text> </p> -->
 
-<p> Quack quack <text color=red>ERROR</text> </p>
+<!-- <p> Quack quack <text color=red>ERROR</text> </p> -->
 
-(he/him) | <code style="color : red">RED test</code> | <p> <text style="color: blue">BLUE test</text> </p>
+(he/him) | <code style="color : red">RED test</code>
+
+<!-- <p> <text style="color: blue">BLUE test</text> </p> -->
 
 PhD Candidate | Email: teng4ATualberta.ca
 
