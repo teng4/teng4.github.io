@@ -20,15 +20,15 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 
 #  Hands-on Experience on Physical Robotic Control Systems
-+ 7-DOF Franka Emika Panda robot ${\color{gray} (Franka \space Emika \space GmbH, \space Munich, \space Germany; \space ROS, \space Ubuntu, \space C++)}$
++ 7-DOF Franka Emika Panda robot _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
 
-- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) ${\color{gray} (Quanser \space Inc., \space Markham, \space ON, \space Canada; \space MATLAB/Simulink)}$
+- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
-* 3-DOF PHANToM Premium 1.5A robot ${\color{gray} (3D \space Systems, \space Inc., \space Cary, \space NC, \space USA; \space MATLAB/Simulink)}$
+* 3-DOF PHANToM Premium 1.5A robot _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 
-* 2-DOF planar Rehabilitation robot 1.0/2.0 ${\color{gray} (Quanser \space Inc., \space Markham, \space ON, \space Canada; \space MATLAB/Simulink)}$
+* 2-DOF planar Rehabilitation robot 1.0/2.0 _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
-* 6-DOF 3D Systems Touch (aka, Phantom Omni robot) ${\color{gray} (3D \space Systems, \space Inc., \space Cary, \space NC, \space USA; \space MATLAB/Simulink)}$
+* 6-DOF 3D Systems Touch (aka, Phantom Omni robot) _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 
 
 # Publications (journals)
