@@ -12,6 +12,9 @@
 
 
 <!-- # Teng Li -->
+# Teng Li
+(he/him)
+
 PhD Candidate | [LinkedIn](https://www.linkedin.com/in/teng4/) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en)
 
 University of Alberta, Edmonton, AB, Canada
@@ -65,4 +68,6 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 # Versions
 Updated 2024-04-06
 
-~~Created 2024-04-05~~
+~~Updated 2024-04-05~~
+
+Created 2024-04-05
