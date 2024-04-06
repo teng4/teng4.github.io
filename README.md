@@ -1,10 +1,12 @@
 <!-- # teng4.github.io -->
 <!-- Teng Li's Personal Website on GitHub -->
 <!-- This content will not appear in the rendered Markdown -->
-# Teng Li's Homepage
-${\color{gray} teng4.github.io}$
+<!-- # Teng Li's Homepage -->
+<!-- ${\color{gray} teng4.github.io}$ -->
 
-This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website).
+[[Homepage](teng4.github.io)]
+
+<!-- This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website). -->
 <!-- This site was built using [GitHub Pages](https://pages.github.com/). -->
 <!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
