@@ -23,6 +23,8 @@ Email: teng4ATualberta.ca
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf)
 
+[CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>)
+
 
 
 
