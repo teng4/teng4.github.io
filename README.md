@@ -11,7 +11,7 @@
 <!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
 
-# Teng Li
+<!-- # Teng Li -->
 PhD Candidate | [LinkedIn](https://www.linkedin.com/in/teng4/) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en)
 
 University of Alberta, Edmonton, AB, Canada
