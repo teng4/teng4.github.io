@@ -1,0 +1,4 @@
+---------
+Summary:
+---------
+This video contains experimental demonstrations for each of the three conditions (i.e., constant payload, time-varying payload, and set-point regulation) presented in the paper, and a preliminary application on elbow arthroscopic surgery with a FAST simulator.
