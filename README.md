@@ -23,9 +23,12 @@ Email: teng4ATualberta.ca
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf)
 
-[CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="teng4_Papers/flower_tulips00.jpg" alt="" type="application/pdf"></a>)
+<!-- [CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="teng4_Papers/flower_tulips00.jpg" alt="" type="application/pdf"></a>) -->
 
+[CV2](https://teng4.github.io/teng4_Papers/20240404_TengLi_CV.pdf)
 
+<!-- https://username.github.io/folder/document.pdf -->
+<!-- <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a> -->
 
 
 # Bio
