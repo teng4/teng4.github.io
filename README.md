@@ -15,11 +15,14 @@
 # Teng Li
 (he/him)
 
-PhD Candidate | [LinkedIn](https://www.linkedin.com/in/teng4/) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en)
+PhD Candidate 
 
 University of Alberta, Edmonton, AB, Canada
 
 Email: teng4ATualberta.ca
+
+[LinkedIn](https://www.linkedin.com/in/teng4/) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf)
+
 
 
 
