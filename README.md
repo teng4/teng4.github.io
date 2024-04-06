@@ -17,14 +17,26 @@ Teng Li received his M.E. degree in Mechanical Manufacturing and Automation from
 Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction ($p$HRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
 
 
+#  Hands-on Experience on Physical Robotic Control Systems
++ 7-DOF Franka Emika Panda robot ${\color{gray} (Franka \space Emika \space GmbH, \space Munich, \space Germany; \space ROS, \space Ubuntu, \space C++)}$
+
+- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) ${\color{gray} (Quanser \space Inc., \space Markham, \space ON, \space Canada; \space MATLAB/Simulink)}$
+
+* 3-DOF PHANToM Premium 1.5A robot ${\color{gray} (3D \space Systems, \space Inc., \space Cary, \space NC, \space USA; \space MATLAB/Simulink)}$
+
+* 2-DOF planar Rehabilitation robot 1.0/2.0 ${\color{gray} (Quanser \space Inc., \space Markham, \space ON, \space Canada; \space MATLAB/Simulink)}$
+
+* 6-DOF 3D Systems Touch (aka, Phantom Omni robot) ${\color{gray} (3D \space Systems, \space Inc., \space Cary, \space NC, \space USA; \space MATLAB/Simulink)}$
+
+
 # Publications (journals)
-[1.] **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [Accepted]
+1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [Accepted]
 
-[1.] **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)]
+1. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. ${\color{brown}(with \space a \space 3DOF \space PHANToM \space Premium \space 1.5A \space robot)}$ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)]
 
-[1.] **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, 2023. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)]
+1. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, 2023. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)]
 
-[1.] **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, 2022.   ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]
+1. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, 2022.   ${\color{brown}(with \space a \space 7DOF \space Franka \space Emika \space Panda \space robot)}$ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]
 
 
 # Publications (conferences)
