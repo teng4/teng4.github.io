@@ -15,15 +15,17 @@
 <!-- <p> Quack quack <text style="color: red">ERROR</text> </p> -->
 <!-- <p> Quack quack <text color=red>ERROR</text> </p> -->
 
-(he/him) | <code style="color : red">RED test</code> |
+<!-- (he/him) | <code style="color : red">RED test</code> | -->
 
 <!-- <p> <text style="color: blue">BLUE test</text> </p> -->
+
+(he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://teng4.github.io/teng4_Papers/20240404_TengLi_CV.pdf) |
 
 PhD Candidate | Email: teng4ATualberta.ca |
 
 University of Alberta | Edmonton, AB, Canada |
 
-[Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://teng4.github.io/teng4_Papers/20240404_TengLi_CV.pdf) |
+
 
 <!-- [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf) -->
 <!-- [CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="teng4_Papers/flower_tulips00.jpg" alt="" type="application/pdf"></a>) -->
@@ -49,7 +51,7 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 * 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
-* 6-DOF 3D Systems Touch (aka, Phantom Omni robot) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
+* 6-DOF 3D Systems Touch (Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 
 
 # Publications (journals)
@@ -75,6 +77,7 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 
 # Versions
-Updated 2024-04-06 | Created 2024-04-05
+Updated 2024-04-06 | Created 2024-04-05 |
+
 <!-- Updated 2024-04-06 -->
 <!-- Created 2024-04-05 -->
