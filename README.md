@@ -21,7 +21,7 @@
 
 (he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://teng4.github.io/teng4_Papers/20240404_TengLi_CV.pdf) |
 
-PhD Candidate | Email: teng4ATualberta.ca |
+PhD Candidate | Email: teng4 AT ualberta.ca |
 
 University of Alberta | Edmonton, AB, Canada |
 
@@ -76,7 +76,9 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 1. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, 2021, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]
 
 
+
 # Versions
+
 Updated 2024-04-06 | Created 2024-04-05 |
 
 <!-- Updated 2024-04-06 -->
