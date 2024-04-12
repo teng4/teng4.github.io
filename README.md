@@ -19,7 +19,7 @@
 
 <!-- <p> <text style="color: blue">BLUE test</text> </p> -->
 
-(he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](https://teng4.github.io/teng4_Papers/20240412_TengLi_CV.pdf) |
+(he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](teng4_Papers/20240412_TengLi_CV.pdf) |
 
 PhD Candidate | Email: teng4 AT ualberta.ca |
 
