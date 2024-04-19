@@ -21,7 +21,7 @@
 
 (he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](teng4_Papers/20240415_TengLi_CV.pdf) |
 
-PhD Candidate | Email: teng4 AT ualberta.ca |
+PhD, Biomedical Engineering (robot control systems) | Email: teng4 AT ualberta.ca |
 
 University of Alberta | Edmonton, AB, Canada |
 
@@ -35,7 +35,7 @@ University of Alberta | Edmonton, AB, Canada |
 
 
 # Bio
-Teng Li received his Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.E. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. Currently, he is working towards a Ph.D. degree in Electrical and Computer Engineering at the University of Alberta, Canada. His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
+Teng Li received his Ph.D. degree in Biomedical Engineering at the University of Alberta, Canada, in 2024, and another Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
 
 
 # Research Interests
@@ -51,7 +51,7 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 * 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
-* 6-DOF 3D Systems Touch (Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
+* 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 
 
 # Publications (journals)
@@ -79,7 +79,8 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 # Versions
 
-Updated 2024-04-06 | Created 2024-04-05 |
+Updated 2024-04-19 | Created 2024-04-05 |
 
+<!-- Updated 2024-04-19 -->
 <!-- Updated 2024-04-06 -->
 <!-- Created 2024-04-05 -->
