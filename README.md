@@ -1,88 +1,228 @@
-<!-- # teng4.github.io -->
-<!-- Teng Li's Personal Website on GitHub -->
-<!-- This content will not appear in the rendered Markdown -->
-<!-- # Teng Li's Homepage -->
-<!-- ${\color{gray} teng4.github.io}$ -->
+# Get started building your personal website
 
-[[Teng's Homepage](teng4.github.io)]
+### Showcase your software development skills
 
-<!-- This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website). -->
-<!-- This site was built using [GitHub Pages](https://pages.github.com/). -->
-<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
+This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.
+
+Your personal website is waiting to be personalized, though. It includes space to highlight your specific areas of interest in software development, like languages or industries. And it's standing by to publish your next great blog post.
+
+It's all possible using the combination of [Jekyll](https://jekyllrb.com/docs/) (for building your website), [GitHub Pages](https://pages.github.com/) (for hosting your website), and [GitHub's API](https://developer.github.com/v3/) (for automatically populating your website with content).
+
+![](https://user-images.githubusercontent.com/221550/110506678-51906280-80cd-11eb-803a-c41984bd9312.png)
+
+## Installation
+
+### Fork the `github/personal-website` repo
+
+You'll be making your own copy of the "personal website starter" repository so you have your own project to customize. A "fork" is a copy of a repository. So select "Fork" atop [the `github/personal-website` repository](https://github.com/github/personal-website).
+
+Once you've found a home for your forked repository, it's yours. You're the owner, so you're ready to publish, if you wish.
+
+### Install in your local development environment
+
+If you want to manage your website in a local web development environment, you'll be using [Ruby](https://jekyllrb.com/docs/installation/).
+
+Once you've found a home for your forked repository, **[clone it](https://help.github.com/articles/cloning-a-repository/)**.
+
+#### Install Jekyll
+
+Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be installed on most systems.
+
+1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
+2. Install Jekyll and [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) [gems](https://jekyllrb.com/docs/ruby-101/#gems)
+```
+gem install jekyll bundler
+```
+3. Change into your new directory
+```
+cd personal-website
+```
+4. Install missing gems
+```
+bundle install
+```
+5. Build the site and make it available on a local server
+```
+bundle exec jekyll serve
+```
+
+You should see something like:
+
+```
+Configuration file: /octocat/personal-website/_config.yml
+            Source: /octocat/personal-website
+       Destination: /octocat/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+                    done in 14.729 seconds.
+ Auto-regeneration: enabled for '/octocat/personal-website'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+```
+
+Don't worry about the "No GitHub API authentication could be found" message. [API authentication is only necessary](https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md) if you intend to display more detailed metadata, like a branch name.
+
+6. Now browse to [http://localhost:4000](http://localhost:4000)
+
+### Publish
+
+When you host your personal website's code on GitHub, you get the support of free hosting through GitHub Pages.
+
+**The fastest approach** is to rename your repository `username.github.io`, where `username` is your GitHub username (or organization name). Then, the next time you push any changes to your repository's `master` branch, they'll be accessible on the web at your `username.github.io` address.
+
+**If you want to use a custom domain**, you'll want to add it to your repository's "Custom domain" settings on github.com. And then register and/or [configure your domain with a DNS provider](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
+
+## Customization
+
+It's your website, and you control the source code. So you can customize everything, if you like. But we've provided a handful of quick customizations for you to consider as you get your website off the ground.
+
+### Quick configuration changes
+
+Most customizations can be done in a matter of seconds, by revising your repository's `_config.yml` file. Just remember to restart your local server each time you save new changes so your Jekyll-powered website rebuilds correctly:
+
+1. Shut down your server by entering the keyboard command <kbd>CTRL</kbd>+<kbd>c</kbd>
+2. Restart your server: `bundle exec jekyll serve`
 
 
-<!-- # Teng Li -->
-<!-- <p> Quack quack <text style="color: red">ERROR</text> </p> -->
-<!-- <p> Quack quack <text color=red>ERROR</text> </p> -->
+#### Layout
 
-<!-- (he/him) | <code style="color : red">RED test</code> | -->
+Your website will display in a two-column layout by default on larger-screen devices, with your photo, name, and basic information displayed in a left-aligned "sidebar." You can quickly switch to a "stacked" single-column layout by changing the line in your `_config.yml` file that reads `layout: sidebar` to `layout: stacked`.
 
-<!-- <p> <text style="color: blue">BLUE test</text> </p> -->
+#### Style
 
-(he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](teng4_Papers/20240415_TengLi_CV.pdf) |
+Your website appears with a "light" white and gray background by default, with dark text. You can quickly switch to a "dark" background with white text by changing the line in your `_config.yml` file that reads `style: light` to `style: dark`.
 
-Ph.D., Biomedical Engineering (robot control systems) | 
+#### Projects
 
-Email: teng4 AT ualberta.ca |
+The "My Projects" section of your website is generated by default with your nine most recently "pushed" repositories. It also excludes repositories that you forked, by default. But each of these parameters can be quickly customized in your repository's `_config.yml` file, under the `projects` dictionary line.
 
-University of Alberta | Edmonton, AB, Canada |
+Parameters include:
+
+- `sort_by`: The method by which repositories are sorted. Options include `pushed` and `stars`.
+- `limit`: The maximum number of repositories that will be displayed in the "My Projects" section of your website. Out of the box, this number is set to `9`.
+- `exclude`:
+   - `forks`: When `true`, repositories you've forked will be excluded from the listing.
+   - `projects`: A list the repository names you want to exclude from the listing.
+
+#### Topics
+
+Your website comes pre-configured with three topics (e.g. "Web design" and "Sass") that appear in a section titled "My Interests." These are also stored in your repository's `_config.yml` file, where you can define each topic's name and two other optional details:
+
+- `web_url`: The web address you'd like to your topic to link to (e.g. `https://github.com/topics/sass`).
+- `image_url`: The web address of an (ideally square) image that you'd like to appear with your topic.
+
+#### Social media
+
+Your website supports linking and sharing to social media services you're using, including Behance, Dribbble, Facebook, LinkedIn, Medium, Stack Overflow, Twitter, and YouTube. To identify the services you use:
+
+1. Edit your repository's `_config.yml` file.
+2. Edit the `social_media` dictionary line, and represent the services you like in a simple `key: value` form:
+
+```
+social_media:
+  behance: your_username
+  dribbble: your_username  
+  facebook: your_username
+  hackerrank: your_username
+  instagram: your_username
+  keybase: your_username
+  linkedin: your_username
+  medium: your_username
+  stackoverflow: your_user_id
+  telegram: your_username
+  twitter: your_username
+  unsplash: your_username
+  vk: your_username
+  website: http://your_website_url
+  youtube: your_username
+```
+
+Links to your profile for each of the services you define will appear in the `<header>` of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.
+
+**Note**: This feature is supported by two files in your repository:
+
+- `/_data/social_media.yml`: Defines each of the supported services, including variable name, display name, URL path, and SVG icon.
+- `/_includes/social_media_share_url.html`: Outputs the share URL required for any of the supported social media services that support sharing URLs.
+
+If you're interested in adding a social media service that's not already supported in this repo, you can edit these two files to build that support.
+
+## Adding pages
+
+To **add a page** to your website (e.g. detailed resume):
+
+1. Create a new `.html` or `.md` file at the root of your repository.
+2. Give it a filename that you want to be used in the page's URL (e.g. `http://yoursite.dev/filename`).
+3. At the start of your file, include the following [front matter](https://jekyllrb.com/docs/front-matter/):
+
+```
+---
+layout: default
+---
+```
+
+## Adding blog posts
+
+To **add a blog post** to your website:
+
+1. Create a new `.md` file in your repository's `/_posts/` directory.
+2. Give it a filename using the following format:
+
+```
+YEAR-MONTH-DAY-title.MARKUP
+```
+
+3. At the start of your file, include the following [front matter](https://jekyllrb.com/docs/front-matter/):
+
+```
+---
+title: "The title of my blog post"
+---
+```
+
+Your website comes with a placeholder blog post that you can reference. Notably, its [front matter](https://jekyllrb.com/docs/front-matter/) declares `published` as `false`, so that it won't appear on your website.
+
+While you can define a `layout` in the front matter, your website is pre-configured to assign the `post` layout to all of the posts in your `/_posts/` directory. So you don't have to declare that in your posts.
+
+Jekyll's conventions for authoring and managing blog posts is very flexible. You can [learn more in Jekyll's documentation for "Posts."](https://jekyllrb.com/docs/posts/)
+
+## Content and templates
+
+To give you a sound foundation to start your personal website, your repository includes a handful of "includes" -- dynamic `.html` files that are re-used throughout your website. They're all stored in the `/_includes/` directory.
+
+There are the usual suspects, like `header.html` and `footer.html`. But there are few more worth pointing out:
+
+- `interests.html`: A heading and dynamic list of "My Interests," which is populated with the [topics](#topics) you list in your `_config.yml`.
+- `masthead.html`: A collection of your avatar, name, bio, and other metadata that's displayed prominently on all your webpages to help identify what the website is about.
+- `post-card.html`: A compact, summarized presentation of a blog post, re-used to display a listing of your latest blog posts.
+- `projects.html`: A heading and dynamic list of "My Projects," which is populated with a listing of your newest GitHub repositories.
+- `repo-card.html`: A compact, summarized presentation of a repository, re-used to display a listing of your GitHub repositories.
+- `thoughts.html`: A heading and dynamic list of "My Thoughts," which is populated with a listing of your latest blog posts.
+- `topic-card.html`: A compact, summarized presentation of a topic (defined in your `_config.yml`), re-used to display a listing of your interests.
+
+### Layouts
+
+Your repository comes with three layouts:
+
+- **default**: Not used by any of the built-in pages or posts, but useful for any new pages you create.
+- **home**: Used by your `index.html` homepage to display listings of your projects, interests, and (optionally) your blog posts.
+- **post**: Used by default by the posts in your `/_posts/` directory.
+
+Jekyll's convention for defining layouts is very flexible. You can [learn more about customizing your layouts in the Jekyll "Layouts" docs.](https://jekyllrb.com/docs/layouts/)
+
+## Styles
+
+Your website is pre-configured to use [GitHub's very flexible CSS framework called "Primer,"](https://styleguide.github.com/primer/). It's currently referenced within your `styles.scss` file, using the CSS import at-rule:
+
+```
+@import url('https://unpkg.com/primer/build/build.css');
+```
+
+You are, of course, welcome to remove it or replace it with another framework. Just bear in mind that the HTML that your website came pre-packaged with references multiple Primer "utility classes" to define things like column widths, margins, and background colors.
+
+You also have the option to add on to and extend Primer's styles by adding custom CSS to your `/assets/styles.scss` Sass stylesheet. By editing this file, you can customize your website's color scheme, typography, and more.
 
 
+## License
 
-<!-- [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf) -->
-<!-- [CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="teng4_Papers/flower_tulips00.jpg" alt="" type="application/pdf"></a>) -->
-<!-- https://username.github.io/folder/document.pdf -->
-<!-- To allow the user to open the pdf in a new window in the browser, you may use the following HTML, where "PDF" points to the link: -->
-<!-- <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a> -->
-
-
-# Bio
-Teng Li received his Ph.D. degree in Biomedical Engineering from University of Alberta, Canada, in 2024, and another Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
-
-
-# Research Interests
-Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
-
-
-#  Hands-on Experience on Physical Robotic Control Systems
-+ 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
-
-- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
-
-* 3-DOF PHANToM Premium 1.5A robot | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
-
-* 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
-
-* 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
-
-
-# Publications (journals)
-1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. _(with a 3DOF PHANToM Premium 1.5A robot)_ [Accepted]
-
-1. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)]
-
-1. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, 2023. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)]
-
-1. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, 2022.   _(with a 7DOF Franka Emika Panda robot)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]
-
-
-# Publications (conferences)
-1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, 2023. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]
-
-1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Neural Network Learning of Robot Dynamic Uncertainties and Observer-Based External Disturbance Estimation for Impedance Control". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, 2023. pp. 591-597. DOI: 10.1109/AIM46323.2023.10196132. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196132)]
-
-1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022, pp. 11172-11179. doi: 10.1109/IROS47612.2022.9981208. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981208)] [[Demo Video](https://youtu.be/f54Iah0yuWk)]
-
-1. **Teng Li**, Hongjun Xing, Hamid D. Taghirad, and Mahdi Tavakoli. "EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022, pp. 670-675. doi: 10.1109/IROS47612.2022.9981615. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981615)] [[Demo Video](https://youtu.be/kgMYiFkA3qk)]
-
-1. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, 2021, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]
-
-
-
-# Versions
-
-Updated 2024-04-19 | Created 2024-04-05 |
-
-<!-- Updated 2024-04-19 -->
-<!-- Updated 2024-04-06 -->
-<!-- Created 2024-04-05 -->
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
