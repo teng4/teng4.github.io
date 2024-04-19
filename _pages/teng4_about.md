@@ -7,6 +7,67 @@ redirect_from:
   - /about.html
 ---
 
+<!-- # teng4.github.io -->
+<!-- Teng Li's Personal Website on GitHub -->
+<!-- This content will not appear in the rendered Markdown -->
+<!-- # Teng Li's Homepage -->
+<!-- ${\color{gray} teng4.github.io}$ -->
+
+[[Teng's Homepage](teng4.github.io)]
+
+<!-- This site was built using [GitHub Pages](https://docs.github.com/en/pages/quickstart#creating-your-website). -->
+<!-- This site was built using [GitHub Pages](https://pages.github.com/). -->
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
+
+
+<!-- # Teng Li -->
+<!-- <p> Quack quack <text style="color: red">ERROR</text> </p> -->
+<!-- <p> Quack quack <text color=red>ERROR</text> </p> -->
+
+<!-- (he/him) | <code style="color : red">RED test</code> | -->
+
+<!-- <p> <text style="color: blue">BLUE test</text> </p> -->
+
+(he/him) | [Google Scholar](https://scholar.google.co.uk/citations?user=lY0vLa0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/teng4/) | [CV](teng4_Papers/20240415_TengLi_CV.pdf) |
+
+Ph.D., Biomedical Engineering (robot control systems) | 
+
+Email: teng4 AT ualberta.ca |
+
+University of Alberta | Edmonton, AB, Canada |
+
+<!-- [CV](https://github.com/teng4/teng4.github.io/blob/aa0a0dfa565b96baf989b564f3b5220ac64e8be8/teng4_Papers/20240404_TengLi_CV.pdf) -->
+<!-- [CV2](<a href="teng4_Papers/20240404_TengLi_CV.pdf" class="image fit"><img src="teng4_Papers/flower_tulips00.jpg" alt="" type="application/pdf"></a>) -->
+<!-- https://username.github.io/folder/document.pdf -->
+<!-- To allow the user to open the pdf in a new window in the browser, you may use the following HTML, where "PDF" points to the link: -->
+<!-- <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a> -->
+
+
+Bio
+======
+Teng Li received his Ph.D. degree in Biomedical Engineering from University of Alberta, Canada, in 2024, and another Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
+
+
+Research Interests
+======
+Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
+
+
+#  Hands-on Experience on Physical Robotic Control Systems
+======
++ 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
+
+- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
+
+* 3-DOF PHANToM Premium 1.5A robot | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
+
+* 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
+
+* 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
+
+
+XXXXXX
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
