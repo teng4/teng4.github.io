@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Teng's Website at GitHub" #"Your Name / Site Title"
+title                    : "Teng's Website" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "personal description"
@@ -24,11 +24,12 @@ author:
   avatar           : "profile.png" #"flower_tulips01.jpg"  #"profile.png"
   name             : "Teng Li"  #"Your Sidebar Name"
   pronouns         : "(he/him)" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Canada" #"Earth"
+  bio              : "Robot Control Systems, Surgical Robotics, Impedance Control, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Machine Learning, and Haptics." # "Short biography for the left-hand sidebar"
+  email            : "teng4@ualberta.ca"  #"none@example.org"   
   employer         : "University of Alberta" #"Red Brick University"
+  location         : "Canada" #"Earth"
   URI              : "https://teng4.github.io/" # URL
-  email            : "teng4@ualberta.ca"  #"none@example.org" 
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
