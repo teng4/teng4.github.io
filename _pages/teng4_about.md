@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Teng's academic personal websites"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /teng4_about/
+  - /teng4_about.html
 ---
 
 <!-- # teng4.github.io -->
@@ -43,7 +43,7 @@ University of Alberta | Edmonton, AB, Canada |
 <!-- <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a> -->
 
 
-Bio
+Biography
 ======
 Teng Li received his Ph.D. degree in Biomedical Engineering from University of Alberta, Canada, in 2024, and another Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
 
