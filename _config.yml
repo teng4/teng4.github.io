@@ -8,22 +8,22 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Teng's Website at GitHub" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Teng Li99"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "teng4/teng4.github.io" # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "flower_tulips01.jpg"  #"profile.png"
+  avatar           : "profile.png" #"flower_tulips01.jpg"  #"profile.png"
   name             : "Teng Li"  #"Your Sidebar Name"
-  pronouns         : "He/him" # example: "she/her"  
+  pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Canada" #"Earth"
   employer         : "University of Alberta" #"Red Brick University"
