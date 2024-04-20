@@ -6,14 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Top Menu 顶部菜单
-# #title 为页内跳转，单页模式
-# 可以选择外链或其他页面
-menu:
-  Publications: /#Publications
-  About: /
-  Blog: https://phower.me
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Teng's Website" #"Your Name / Site Title"
@@ -21,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "personal description"
 url                      : https://academicpages.github.io #https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "teng4/teng4.github.io" # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
