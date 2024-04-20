@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png" #"flower_tulips01.jpg"  #"profile.png"
   name             : "Teng Li"  #"Your Sidebar Name"
   pronouns         : "(he/him)" # example: "she/her"  
-  bio              : "Robot Control Systems, Haptics, Surgical Robotics, Teleoperation." # "Short biography for the left-hand sidebar"
+  bio              : "Robot Control Systems, Surgical Robotics, Teleoperation, Haptics." # "Short biography for the left-hand sidebar"
   email            : "teng4@ualberta.ca"  #"none@example.org"   
   employer         : "University of Alberta" #"Red Brick University"
   location         : "Canada" #"Earth"
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://studio.youtube.com/channel/UCYEMLN1bAorv6L0iU1PeEaA" # Username
+  youtube          : "https://youtube.com/playlist?list=PL4PaCxqrHIZsO9rXuN_Okg2vWU2yQLN7D&si=ART_w7t8pxi-dH8h" # Username
   zhihu            : # URL
 
 
