@@ -12,13 +12,9 @@ redirect_from:
 Education
 ======
 - **2019.09 -- 2024.04**
-
   - **University of Alberta** _(Edmonton, Alberta, Canada)_
-
   - **PhD**, Biomedical Engineering (Robot Control Systems)
-
   - **Supervisor**: [Prof. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/)
-
   - **Thesis**: "Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery"
   
 <!-- %\href{https://youtu.be/ETY3jDpKOFw}{\scriptsize [Presentation Video]} -->
