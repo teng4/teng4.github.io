@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D., in Biomedical Engineering (Robot Control Systems), University of Alberta, 2024.04
-* Ph.D., in Mechanical Design and Theory (haptics), Beihang University, 2019.06
-* M.Eng., in Mechanical Manufacture and Automation, Tianjin University of Science and Technology, 2014.03
+- **Ph.D.**, in Biomedical Engineering (Robot Control Systems), **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04
+- **Ph.D.**, in Mechanical Design and Theory (haptics), **Beihang University** _(Beijing, China)_, 2019.06
+- **M.Eng.**, in Mechanical Manufacture and Automation, **Tianjin University of Science and Technology** _(Tianjin, China)_, 2014.03
 <!-- * B.Mgt., in Project Management, Tianjin University, 2009.06 -->
 
 <!-- - **2019.09 -- 2024.04** -->
