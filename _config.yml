@@ -73,10 +73,16 @@ author:
   youtube          : "playlist?list=PL4PaCxqrHIZsO9rXuN_Okg2vWU2yQLN7D&si=8-UpTuwFHizlpLpg" #"@tengli3007" # Username
   zhihu            : # URL
 
-menu:
-  Publications: /#Publications
-  About: /
-  Blog: https://phower.me
+navbar:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  # Add a new entry for your new page
+  - title: New Page
+    url: /newpage
   
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
