@@ -63,9 +63,10 @@ Work experience
 <!--   * Sub-skill 2.3 -->
 <!-- * Skill 3 -->
 
+
 Publications
 ======
-1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. _(with a 3DOF PHANToM Premium 1.5A robot)_
+1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". IEEE/ASME Transactions on Mechatronics, 2024. _(with a 3DOF PHANToM Premium 1.5A robot)_
 2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)]
 3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, 2023. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)]
 4. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, 2023. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]
@@ -83,20 +84,20 @@ Publications
 <!--   {% endfor %}</ul> -->
 
 
-<!-- Talks
-<!-- ======
-<!--   <ul>{% for post in site.talks reversed %}
-<!--     {% include archive-single-talk-cv.html  %}
-<!--   {% endfor %}</ul>
+<!-- Talks -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.talks reversed %} -->
+<!--     {% include archive-single-talk-cv.html  %} -->
+<!--   {% endfor %}</ul> -->
 
 
-<!-- Teaching
-<!-- ======
-<!--   <ul>{% for post in site.teaching reversed %}
-<!--     {% include archive-single-cv.html %}
-<!--   {% endfor %}</ul>
+<!-- Teaching -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.teaching reversed %} -->
+<!--     {% include archive-single-cv.html %} -->
+<!--   {% endfor %}</ul> -->
 
 
-<!-- Service and leadership
-<!-- ======
-<!-- * Currently signed in to 43 different slack teams
+<!-- Service and leadership -->
+<!-- ====== -->
+<!-- * Currently signed in to 43 different slack teams -->
