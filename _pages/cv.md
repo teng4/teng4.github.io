@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-**2019.09 -- 2024.04**
+- **2019.09 -- 2024.04**
 
-  - **University of Alberta** *(Edmonton, Alberta, Canada)*
+  - **University of Alberta** _(Edmonton, Alberta, Canada)_
 
   - **PhD**, Biomedical Engineering (Robot Control Systems)
 
