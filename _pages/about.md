@@ -15,7 +15,7 @@ Research Interests
 Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
 
 
-Hands-on Experience on Physical Robotic Control Systems
+Hands-on Experience on Robots
 ======
 + 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
 
