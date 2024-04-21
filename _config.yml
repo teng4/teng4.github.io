@@ -73,7 +73,11 @@ author:
   youtube          : "playlist?list=PL4PaCxqrHIZsO9rXuN_Okg2vWU2yQLN7D&si=8-UpTuwFHizlpLpg" #"@tengli3007" # Username
   zhihu            : # URL
 
-
+menu:
+  Publications: /#Publications
+  About: /
+  Blog: https://phower.me
+  
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
