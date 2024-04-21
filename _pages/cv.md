@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-- **Ph.D.**, in Biomedical Engineering (Robot Control Systems), **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04
-- **Ph.D.**, in Mechanical Design and Theory (haptics), **Beihang University** _(Beijing, China)_, 2019.06
-- **M.Eng.**, in Mechanical Manufacture and Automation, **Tianjin University of Science and Technology** _(Tianjin, China)_, 2014.03
+- **Ph.D.**, in Biomedical Engineering, **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04
+- **Ph.D.**, in Mechanical Design and Theory, **Beihang University** _(Beijing, China)_, 2019.06
+- **M.Eng.**, in Mechanical Manufacture & Automation, **Tianjin University of Science & Technology** _(Tianjin, China)_, 2014.03
 <!-- * B.Mgt., in Project Management, Tianjin University, 2009.06 -->
 
 <!-- - **2019.09 -- 2024.04** -->
@@ -39,50 +40,64 @@ Education
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
 
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **2016.09 -- 2017.09**
+  - **Karolinska Institutet** _(Stockholm, Sweden)_
+  - **Visiting PhD Student**, Developmental Cognitive Neuroscience
+<!--   - **Supervisor**: Prof. Torkel Klingberg -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- * Summer 2015: Research Assistant -->
+<!--   * Github University -->
+<!--   * Duties included: Tagging issues -->
+<!--   * Supervisor: Professor Git -->
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+<!-- Skills -->
+<!-- ====== -->
+<!-- * Skill 1 -->
+<!-- * Skill 2 -->
+<!--   * Sub-skill 2.1 -->
+<!--   * Sub-skill 2.2 -->
+<!--   * Sub-skill 2.3 -->
+<!-- * Skill 3 -->
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Publications (journals)
+1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". TMECH - IEEE/ASME Transactions on Mechatronics, 2024. _(with a 3DOF PHANToM Premium 1.5A robot)_
+2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, 2023. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)]
+3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, 2023. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)]
+4. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, 2023. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]
+5. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Neural Network Learning of Robot Dynamic Uncertainties and Observer-Based External Disturbance Estimation for Impedance Control". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, 2023. pp. 591-597. DOI: 10.1109/AIM46323.2023.10196132. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196132)]
+6. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022, pp. 11172-11179. doi: 10.1109/IROS47612.2022.9981208. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981208)] [[Demo Video](https://youtu.be/f54Iah0yuWk)]
+7. **Teng Li**, Hongjun Xing, Hamid D. Taghirad, and Mahdi Tavakoli. "EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022, pp. 670-675. doi: 10.1109/IROS47612.2022.9981615. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981615)] [[Demo Video](https://youtu.be/kgMYiFkA3qk)]
+8. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, 2022.   _(with a 7DOF Franka Emika Panda robot)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]
+9. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, 2021, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]
+
+
+<!-- Publications -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.publications reversed %} -->
+<!--     {% include archive-single-cv.html %} -->
+<!--   {% endfor %}</ul> -->
+
+
+<!-- Talks
+<!-- ======
+<!--   <ul>{% for post in site.talks reversed %}
+<!--     {% include archive-single-talk-cv.html  %}
+<!--   {% endfor %}</ul>
+
+
+<!-- Teaching
+<!-- ======
+<!--   <ul>{% for post in site.teaching reversed %}
+<!--     {% include archive-single-cv.html %}
+<!--   {% endfor %}</ul>
+
+
+<!-- Service and leadership
+<!-- ======
+<!-- * Currently signed in to 43 different slack teams
