@@ -11,11 +11,28 @@ redirect_from:
 
 Education
 ======
-- **2019.09 -- 2024.04**
-  - **University of Alberta** _(Edmonton, Alberta, Canada)_
-  - **PhD**, Biomedical Engineering (Robot Control Systems)
-  - **Supervisor**: [Prof. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/)
-  - **Thesis**: "Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery"
+* Ph.D., in Biomedical Engineering (Robot Control Systems), University of Alberta, 2024.04
+* Ph.D., in Mechanical Design and Theory (haptics), Beihang University, 2019.06
+* M.Eng., in Mechanical Manufacture and Automation, Tianjin University of Science and Technology, 2014.03
+<!-- * B.Mgt., in Project Management, Tianjin University, 2009.06 -->
+
+<!-- - **2019.09 -- 2024.04** -->
+<!--   - **University of Alberta** _(Edmonton, Alberta, Canada)_ -->
+<!--   - **PhD**, Biomedical Engineering (Robot Control Systems) -->
+<!--   - **Supervisor**: [Prof. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/) -->
+<!--   - **Thesis**: "Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery" -->
+<!-- %\href{https://youtu.be/ETY3jDpKOFw}{\scriptsize [Presentation Video]} -->
+
+<!-- - **2016.09 -- 2017.09** -->
+<!--   - **Karolinska Institutet** _(Stockholm, Sweden)_ -->
+<!--   - **Visiting PhD Student**, Developmental Cognitive Neuroscience -->
+<!--   - **Supervisor**: Prof. Torkel Klingberg -->
+ 
+<!-- - **2014.09 -- 2019.06** -->
+<!--   - **Beihang University** _(Beijing, China)_ -->
+<!--   - **PhD**, Mechanical Design and Theory -->
+<!--   - **Supervisor**: Prof. Yuru Zhang, and Prof. Dangxiao Wang -->
+<!--   - **Thesis**: "The Measurement of Working Memory and Force Control Ability during Haptic Interaction" -->
   
 <!-- %\href{https://youtu.be/ETY3jDpKOFw}{\scriptsize [Presentation Video]} -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
