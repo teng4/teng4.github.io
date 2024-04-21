@@ -12,7 +12,7 @@ title                    : "Teng's Website" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "personal description"
-url                      : https://teng4.github.io #https://academicpages.github.io #https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io #https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teng4/teng4.github.io" # "academicpages/academicpages.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Teng Li"  #"Your Sidebar Name"
   pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Robot Control Systems, Surgical Robotics, Teleoperation, Haptics." # "Short biography for the left-hand sidebar"
+  email            : "teng4@ualberta.ca"  #"none@example.org"   
   employer         : "University of Alberta" #"Red Brick University"
   location         : "Canada" #"Earth"
   URI              : "https://teng4.github.io/" # URL
-  email            : "teng4@ualberta.ca"  #"none@example.org"   
 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : teng4 # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,16 +70,16 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "playlist?list=PL4PaCxqrHIZsO9rXuN_Okg2vWU2yQLN7D&si=8-UpTuwFHizlpLpg" #"@tengli3007" # Username
+  youtube          : #"@tengli3007" # Username
   zhihu            : # URL
 
- 
+
 # Site Settings
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "enabled" #"disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -205,7 +205,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:_pages/:publications
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
