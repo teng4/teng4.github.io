@@ -12,7 +12,7 @@ title                    : "Teng's Website" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "personal description"
-url                      : https://teng4.github.io #https://academicpages.github.io #https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://teng4.github.io #teng4note, set teng4.io site will make the menu bar shorter, WHY? #https://teng4.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teng4/teng4.github.io" # "academicpages/academicpages.github.io"
 
