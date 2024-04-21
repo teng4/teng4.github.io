@@ -25,10 +25,10 @@ author:
   name             : "Teng Li"  #"Your Sidebar Name"
   pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Robot Control Systems, Surgical Robotics, Teleoperation, Haptics." # "Short biography for the left-hand sidebar"
-  email            : "teng4@ualberta.ca"  #"none@example.org"   
   employer         : "University of Alberta" #"Red Brick University"
   location         : "Canada" #"Earth"
   URI              : "https://teng4.github.io/" # URL
+  email            : "teng4@ualberta.ca"  #"none@example.org"   
 
 
   # Academic websites
