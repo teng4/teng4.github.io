@@ -21,7 +21,7 @@ repository               : "teng4/teng4.github.io" # "academicpages/academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "20230320_720x720.png" #"20230320_720x720.png" #"flower_lotus01_500x500.png" #"profile.png" #"flower_tulips01.jpg"  #"profile.png"
+  avatar           : "TengLi_720x720.png" #"20230320_720x720.png" #"flower_lotus01_500x500.png" #"profile.png" #"flower_tulips01.jpg"  #"profile.png"
   name             : "Teng Li"  #"Your Sidebar Name"
   pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Robot Control Systems, Surgical Robotics, Teleoperation, Haptics." # "Short biography for the left-hand sidebar"  
