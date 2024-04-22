@@ -66,8 +66,8 @@ Visiting Experience
 
 Hands-on Experience on Robots
 ------
-+ 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
-- 6-DOF HD<sup>2</sup> (High Definition Haptic Device) | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
+* 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
+* 6-DOF HD<sup>2</sup> (High Definition Haptic Device) | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 * 3-DOF PHANToM Premium 1.5A robot | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 * 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 * 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
