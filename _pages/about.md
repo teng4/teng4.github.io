@@ -12,7 +12,7 @@ Teng Li received his Ph.D. degree in Biomedical Engineering from University of A
 
 Research Interests
 ======
-Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Dynamic Uncertainties, Impedance Control, Admittance Control, Haptics, Machine Learning.
+Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Impedance Control, Admittance Control, Machine Learning, and Haptics.
 
 
 Hands-on Experience on Robots
