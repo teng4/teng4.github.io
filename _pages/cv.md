@@ -124,6 +124,28 @@ Publications
 
 9. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, **2021**, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]  [[ResearchGate](https://www.researchgate.net/publication/353957917_IMPROVING_A_USER'S_HAPTIC_PERCEPTUAL_SENSITIVITY_BY_OPTIMIZING_EFFECTIVE_MANIPULABILITY_OF_A_REDUNDANT_USER_INTERFACE)]
 
+------
+
+10. Dangxiao Wang, **Teng Li**, Naqash Afzal, Jicong Zhang, and Yuru Zhang. "Haptics-Mediated Approaches for Enhancing Sustained Attention: Framework and Challenges". SCIENCE CHINA Information Sciences, 62(11): 211101.1-21101.26, **2019**. [[Springer Link](https://doi.org/10.1007/s11432-018-9931-1)]
+
+11. **Teng Li**, Dangxiao Wang, Cong Peng, Chun Yu, and Yuru Zhang. "Speed-Accuracy Tradeoff of Fingertip Force Control with Visual/Audio/Haptic Feedback". International Journal of Human-Computer Studies, 110: 33-44, **2018**. [[ScienceDirect](https://doi.org/10.1016/j.ijhcs.2017.10.004)]
+
+12. Dangxiao Wang, **Teng Li**, Gaofeng Yang, and Yuru Zhang. "Effects of Concurrent and Delayed Visual Feedback on Motor Memory Consolidation". IEEE Transactions on Haptics, 10(3): 350-357, **2017**. DOI: 10.1109/TOH.2017.2672549. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7862265)]
+
+13. Dangxiao Wang, **Teng Li**, Yuru Zhang, Jianxia Hou. "Survey on Multisensory Feedback Virtual Reality Dental Training Systems". European Journal of Dental Education, 20(4): 248-260, **2016**. [[Wiley](https://onlinelibrary.wiley.com/doi/10.1111/eje.12173)]
+
+14. **Teng Li**, Dangxiao Wang, Shusheng Zhang, Yuru Zhang, and Chun Yu. "Speed-Accuracy Tradeoff of Controlling Absolute Magnitude of Fingertip Force". 2015 IEEE World Haptics Conference _(WHC 2015)_, Northwestern University, Evanston, IL, USA, June 22-26, **2015**. pp: 408-414. doi: 10.1109/WHC.2015.7177746. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7177746)]
+
+15. Dangxiao Wang, Siming Zhao, **Teng Li**, Yuru Zhang, Xiaoyan Wang. "Preliminary Evaluation of A Virtual Reality Dental Simulation System on Drilling Operation". Bio-Medical Materials and Engineering, vol. 26, no. s1, pp. S747-S756, **2015**. [[IOS Press](https://doi.org/10.3233/bme-151366)]
+
+16. Cong Peng, Dangxiao Wang, Yuru Zhang, **Teng Li**. "Quantifying Differences Between Five Fingers in Speed-Accuracy Tradeoff for Force Control Tasks". 2017 IEEE World Haptics Conference _(WHC 2017)_. Fürstenfeldbruck (Munich), Germany, June 6-9, **2017**. pp: 275–280. doi: 10.1109/WHC.2017.7989914. [[IEEE Xplore](https://ieeexplore.ieee.org/document/7989914)]
+
+17. Dangxiao Wang, Yilei Zheng, **Teng Li**, Cong Peng, Lijun Wang, and Yuru Zhang. "Multi-Modal Human-Machine Interaction for Human Intelligence Augmentation". SCIENTIA SINICA Informationis, **2018**, 48(04): 449-465. 
+   [In Chinese] [[SciEngine](https://www.sciengine.com/SSI/doi/10.1360/N112017-00213)]
+
+
+------
+
 
 <!-- Publications -->
 <!-- ====== -->
