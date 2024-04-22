@@ -29,16 +29,19 @@ Hands-on Experience on Robots
 
 
 
+<br>
+<br>
 ------
-_Updated 2024-04-21 | Created 2024-04-05 |_
+Updated 2024-04-21 | Created 2024-04-05 |
 
-<code style="color : Red">_Updated 2024-04-21 | Created 2024-04-05 |_</code>
+
 
 <!-- Versions -->
 <!-- Updated 2024-04-21 -->
 <!-- Updated 2024-04-19 -->
 <!-- Updated 2024-04-06 -->
 <!-- Created 2024-04-05 -->
+<!-- <code style="color : Red">_Updated 2024-04-21 | Created 2024-04-05 |_</code> -->
 
 
 <!-- For more info -->
