@@ -16,6 +16,9 @@ author_profile: true
 <!-- {% endfor %} -->
 
 
+------
+
+
 Papers in journals
 ------
 1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". IEEE/ASME Transactions on Mechatronics, **2024**. _(with a 3DOF PHANToM Premium 1.5A robot)_
