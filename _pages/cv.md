@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The PDF version of my CV can be found [here]().
+
 
 Education
 ------
