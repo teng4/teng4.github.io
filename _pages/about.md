@@ -32,10 +32,10 @@ Hands-on Experience on Robots
 <br>
 
 ------
-> [!TIP]
 > Updated 2024-04-21, Created 2024-04-05.
 
-
+<!-- > [!TIP] -->
+<!-- > Updated 2024-04-21, Created 2024-04-05. -->
 
 <!-- Versions -->
 <!-- Updated 2024-04-21 -->
