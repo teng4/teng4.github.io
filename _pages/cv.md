@@ -124,7 +124,9 @@ Publications
 
 9. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, **2021**, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]  [[ResearchGate](https://www.researchgate.net/publication/353957917_IMPROVING_A_USER'S_HAPTIC_PERCEPTUAL_SENSITIVITY_BY_OPTIMIZING_EFFECTIVE_MANIPULABILITY_OF_A_REDUNDANT_USER_INTERFACE)]
 
-------
+
+<!-- ------ -->
+
 
 10. Dangxiao Wang, **Teng Li**, Naqash Afzal, Jicong Zhang, and Yuru Zhang. "Haptics-Mediated Approaches for Enhancing Sustained Attention: Framework and Challenges". SCIENCE CHINA Information Sciences, 62(11): 211101.1-21101.26, **2019**. [[Springer Link](https://doi.org/10.1007/s11432-018-9931-1)]
 
