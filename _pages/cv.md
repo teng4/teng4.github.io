@@ -41,7 +41,7 @@ Education
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
 
 
-Work experience
+Visiting Experience
 ------
 - **2016.09 -- 2017.09**
   - **Karolinska Institutet** _(Stockholm, Sweden)_
@@ -91,6 +91,16 @@ Teaching Assistant (TA) Experience
 10. **GTLP Level-1**, _(Oct. 2020)_, completed the **Graduate Teaching and Learning Program Level 1: Foundations**;
 11. **TA**, _(Win. 2020)_, on ENCMP 100 Labs - **Computer Programming for Engineers**, _(Matlab)_.
   - _Note: TA, teaching assistant; LI, lab instructor; Win., winter term; Lec., Lecture marker._
+
+
+Academic Activities
+------
+- Oral & Poster Presentation, 2023 Autonomous Systems Initiative (ASI) Symposium _(ASI Symposium 2023)_, September 14-15, Edmonton, Alberta, Canada.
+- Oral Presentation (in-person), 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022.
+- Recorded oral Presentation (virtual), 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, Montreal, Canada, August 11-13, 2021.
+- Student Volunteer, 2017 IEEE World Haptics Conference _(WHC 2017)_, Furstenfeldbruck, Munich, Germany, Jun 6-9, 2017.
+- Attendee, Strat Neuro Retreat 2017, Sanga Saby, Stockholm, Sweden, May 4-5, 2017.
+- Oral Presenter & Student Volunteer, 2015 IEEE World Haptics Conference _(WHC 2015)_, Northwestern University, Evanston, IL, USA, Jun 22-26, 2015.
 
 
 Publications
