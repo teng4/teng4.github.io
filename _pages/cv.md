@@ -12,6 +12,9 @@ redirect_from:
 The PDF version of my CV can be found [here]().
 
 
+------
+
+
 Education
 ------
 - **Ph.D.**, in Biomedical Engineering, **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04
