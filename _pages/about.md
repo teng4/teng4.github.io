@@ -28,10 +28,11 @@ Hands-on Experience on Robots
 * 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
 
 
-Versions
-------
-Updated 2024-04-21 | Created 2024-04-05 |
 
+------
+_Updated 2024-04-21 | Created 2024-04-05 |_
+
+<!-- Versions -->
 <!-- Updated 2024-04-21 -->
 <!-- Updated 2024-04-19 -->
 <!-- Updated 2024-04-06 -->
