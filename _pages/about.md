@@ -32,7 +32,8 @@ Hands-on Experience on Robots
 <br>
 
 ------
-> Updated 2024-04-21 | Created 2024-04-05 |
+> Updated 2024-04-21 
+> Created 2024-04-05
 
 
 
