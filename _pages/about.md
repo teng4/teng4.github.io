@@ -34,16 +34,16 @@ Hands-on Experience on Robots
 ------
 > Updated 2024-04-22, Created 2024-04-05.
 
-<!-- > [!TIP] -->
-<!-- > Updated 2024-04-21, Created 2024-04-05. -->
-
 <!-- Versions -->
-<!-- Updated 2024-04-22 -->
-<!-- Updated 2024-04-21 (masthead height problem solved by Yafei.) -->
+<!-- Updated 2024-04-22 (masthead height problem solved by Yafei.) -->
+<!-- Updated 2024-04-21 -->
 <!-- Updated 2024-04-19 -->
 <!-- Updated 2024-04-06 -->
 <!-- Created 2024-04-05 -->
 <!-- <code style="color : Red">_Updated 2024-04-21 | Created 2024-04-05 |_</code> -->
+
+<!-- > [!TIP] -->
+<!-- > Updated 2024-04-21, Created 2024-04-05. -->
 
 
 <!-- For more info -->
