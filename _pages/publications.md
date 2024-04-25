@@ -32,7 +32,7 @@ This is a image.
 
 This is a gif.
 
-![gift](https://github.com/teng4/teng4.github.io/blob/16061c7fa08a8044d6f7350a7eb107cec657785f/teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg)
+![gift](teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg)
 
 Demo video (on Github):
 
