@@ -26,13 +26,13 @@ Papers in journals
 ------
 1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". IEEE/ASME Transactions on Mechatronics, pp. 1-12, **2024**. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
-  The proposed Git scheme is implemented in a simulated arthroscopic surgery scenario.
+      The proposed Git scheme is implemented in a simulated arthroscopic surgery scenario.
   
-  <img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
+      <img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
 
-  This is a gift.
+      This is a gift.
 
-  ![gift](../teng4_Papers/teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp3.gif) -->
+      ![gift](../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp3.gif)
 
 <!-- This is a image. --teng4note, use either method for image is ok, and use either absolut/relative path for image is also ok. -->
 <!-- <img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%"> -->
