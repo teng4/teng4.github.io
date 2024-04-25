@@ -28,7 +28,7 @@ Papers in journals
 
 This is a gif.
 
-![](teng4_Papers/p008_TMECH_PDGit/TMECHfinalExp3.gif)
+![](TMECHfinalVideoExp3.gif)
 
 Demo video (on Github):
 
