@@ -26,21 +26,22 @@ Papers in journals
 ------
 1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "Iterative Learning for Gravity Compensation in Impedance Control". IEEE/ASME Transactions on Mechatronics, pp. 1-12, **2024**. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
-This is a image.
+  The proposed Git scheme is implemented in a simulated arthroscopic surgery scenario.
+  
+  <img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
 
-<img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
+  This is a gift.
 
-This is a gif.
+  ![gift](../teng4_Papers/teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp3.gif) -->
 
-![gift](../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg)
-
-Demo video (on Github):
-
-teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideo.mp4
-
-Demo video (on Youtube):
-
-https://youtu.be/2BzboHYSa68
+<!-- This is a image. --teng4note, use either method for image is ok, and use either absolut/relative path for image is also ok. -->
+<!-- <img src="../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%"> -->
+<!-- This is a gif. -->
+<!-- ![gift](../teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg) -->
+<!-- Demo video (on Github): --teng4note, video not ok yet. -->
+<!-- teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideo.mp4 -->
+<!-- Demo video (on Youtube): --teng4note, video not ok yet. -->
+<!-- https://youtu.be/2BzboHYSa68 -->
 
 2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, **2023**. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://www.youtube.com/watch?v=6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
 
