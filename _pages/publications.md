@@ -28,11 +28,11 @@ Papers in journals
 
 This is a image.
 
-<img src="teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
+<img src="https://github.com/teng4/teng4.github.io/blob/16061c7fa08a8044d6f7350a7eb107cec657785f/teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg" width="50%" height="50%">
 
 This is a gif.
 
-![gift](TMECHfinalVideoExp3.gif)
+![gift](https://github.com/teng4/teng4.github.io/blob/16061c7fa08a8044d6f7350a7eb107cec657785f/teng4_Papers/p008_TMECH_PDGit/TMECHvideoImg1.jpg)
 
 Demo video (on Github):
 
