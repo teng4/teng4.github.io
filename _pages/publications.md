@@ -45,7 +45,7 @@ Papers in journals
 
 ------
 
-2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, **2023**. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
+- **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, **2023**. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p007_Robotica_obs123/2023Robotica_obs123ExpMerged.gif)](https://youtu.be/6ePnym57jPU) |
@@ -54,7 +54,7 @@ Papers in journals
 
 ------
 
-3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
+- **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
 
       | _Figure: Robotic systems (RSs) in the timeline._ |
       | [<img src="../teng4_Papers/p006_MDPI_Orthopedics/2023applsci_timeline.jpg" width="50%" height="50%">](https://www.mdpi.com/2076-3417/13/17/9768) |
@@ -63,7 +63,7 @@ Papers in journals
 
 ------
 
-4. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(with a 7DOF Franka Emika Panda robot)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
+- **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(with a 7DOF Franka Emika Panda robot)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.]()](https://youtu.be/NkqlawDmJrM) |
