@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <!-- {% endfor %} -->
 
 
-------
+------------
 
 
 Papers in journals
@@ -43,7 +43,7 @@ Papers in journals
 <!-- https://youtu.be/2BzboHYSa68 -->
 
 
-------
+------------
 
 2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "A Brief Survey of Observers for Disturbance Estimation and Compensation". Robotica, 41(12), 3818–3845, **2023**. Cambridge University Press. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
 
@@ -52,7 +52,7 @@ Papers in journals
 
       | _ABSTRACT: An accurate dynamic model of a robot is fundamentally important for a control system, while uncertainties residing in the model are inevitable in a physical robot system. The uncertainties can be categorized as internal disturbances and external disturbances in general. The former may include dynamic model errors and joint frictions, while the latter may include external payloads or human-exerted force to the robot. Disturbance observer is an important technique to estimate and compensate for the uncertainties of the dynamic model. Different types of disturbance observers have been developed to estimate the lumped uncertainties so far. In this paper, we conducted a brief survey on five typical types of observers from a perspective of practical implementation in a robot control system, including generalized momentum observer (GMO), joint velocity observer (JVOB), nonlinear disturbance observer (NDOB), disturbance Kalman filter (DKF), and extended state observer (ESO). First, we introduced the basics of each observer including equations and derivations. Two common types of disturbances are considered as two scenarios, that is, constant external disturbance and time-varying external disturbance. Then, the observers are separately implemented in each of the two simulated scenarios, and the disturbance tracking performance of each observer is presented while their performance in the same scenario has also been compared in the same figure. Finally, the main features and possible behaviors of each type of observer are summarized and discussed. This survey is devoted to helping readers learn the basic expressions of five typical observers and implement them in a robot control system._ |
 
-------
+------------
 
 3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review". Applied Sciences, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
 
@@ -61,7 +61,7 @@ Papers in journals
 
       | _ABSTRACT: Since the da Vinci surgical system was approved by the Food and Drug Administration (FDA) in 2000, the development and deployment of various robot-assisted minimally invasive surgery (MIS) systems have been largely expedited and boomed. With the rapid advancement of robotic techniques in recent decades, robot-assisted systems have been widely used in various surgeries including orthopedics. These robot-related techniques are transforming the conventional ways to conduct surgical procedures. Robot-assisted orthopedic surgeries have become more and more popular due to their potential benefits of increased accuracy and precision in surgical outcomes, enhanced reproducibility, reduced technical variability, decreased pain, and faster recovery time. In this paper, robotic systems and navigation techniques in typical orthopedic surgeries are reviewed, especially for arthroplasty. From the perspective of robotics and engineering, the systems and techniques are divided into two main categories, i.e., robotic systems (RSs), and computer-aided navigation systems (CANSs). The former is further divided into autonomous RS, hands-on RS, and teleoperated RS. For the latter, three key elements in CANS are introduced, including 3D modeling, registration, and navigation. Lastly, the potential advantages and disadvantages of the RS and CANS are summarized and discussed. Future perspectives on robotics in orthopedics, as well as the challenges, are presented._ |
 
-------
+------------
 
 4. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging". Sensors, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(with a 7DOF Franka Emika Panda robot)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
 
@@ -70,20 +70,54 @@ Papers in journals
 
       | _ABSTRACT: The COVID-19 pandemic has brought unprecedented extreme pressure on the medical system due to the physical distance policy, especially for procedures such as ultrasound (US) imaging, which are usually carried out in person. Tele-operation systems are a promising way to avoid physical human-robot interaction (pHRI). However, the system usually requires another robot on the remote doctor side to provide haptic feedback, which makes it expensive and complex. To reduce the cost and system complexity, in this paper, we present a low-cost, easy-to-use, dual-mode pHRI-teleHRI control system with a custom-designed hybrid admittance-force controller for US imaging. The proposed system requires only a tracking camera rather than a sophisticated robot on the remote side. An audio feedback is designed for replacing haptic feedback on the remote side, and its sufficiency is experimentally verified. The experimental results indicate that the designed hybrid controller can significantly improve the task performance in both modes. Furthermore, the proposed system enables the user to conduct US imaging while complying with the physical distance policy, and allows them to seamlessly switch modes from one to another in an online manner. The novel system can be easily adapted to other medical applications beyond the pandemic, such as tele-healthcare, palpation, and auscultation._ |
 
-------
+------------
 
 
 Papers in conferences
 ------
 1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, **2023**. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]  [[ResearchGate](https://www.researchgate.net/publication/371782677_Point-Based_3D_Virtual_Fixture_Generating_for_Image-Guided_and_Robot-Assisted_Surgery_in_Orthopedics)]
 
+      | _Demo video (click to watch the full video)_ |
+      | [![This is a gif image.](../teng4_Papers/p005_AIM23_VF/AIM23_VFvideoSIM.gif)](https://youtu.be/ROSREHC9zU0) |
+
+      | _ABSTRACT: Virtual fixture (VF) has been playing a vital role in robot-assisted surgeries, such as guiding surgical tools' movement and protecting a beating heart. In orthopedic surgery, preplanned images are often used in the operating room, on which planning curves might be drawn, for instance, to mark out the boundaries for osteophytes to be removed. These curves can be used to generate VF to assist in removing osteophytes during the operation. A challenge is that the hand-drawn curves usually have a random shape and cannot be mathematically represented by equations, thus most of the existing algorithms will not work in this scenario. In this paper, an algorithm of VF generating based on point clouds is presented, with which VF can be generated directly from cloud points, for example, point clouds of hand-drawn curves extracted from an image. The effectiveness of the VF algorithm is evaluated by a series of simulations and experiments. The VF algorithm is also tested in an image-based scenario and its effectiveness is demonstrated. The presented point-based VF algorithm is promising to be used in various applications in image-guided surgery to generate VF for objects with various shapes._ |
+
+------------
+
 2. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Neural Network Learning of Robot Dynamic Uncertainties and Observer-Based External Disturbance Estimation for Impedance Control". 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics _(AIM 2023)_, June 28-30, Seattle, Washington, USA, **2023**. pp. 591-597. DOI: 10.1109/AIM46323.2023.10196132. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196132)]  [[ResearchGate](https://www.researchgate.net/publication/371782730_Neural_Network_Learning_of_Robot_Dynamic_Uncertainties_and_Observer-Based_External_Disturbance_Estimation_for_Impedance_Control)]
+
+      | _Figure: Flowwork of the proposed NN learning procedures._ |
+      | [<img src="../" width="60%" height="60%">](https://ieeexplore.ieee.org/document/10196132) |
+
+      | _ABSTRACT: Estimation of dynamic uncertainties is a critical and fundamental problem when designing a control system for a robot. During robot-environment interaction, in addition to the internal dynamic model uncertainties, the external environment-exerted force will also enter the dynamics. For robot impedance control, an exact dynamic model of the robot is needed but usually not available. It has been shown that integrating an impedance controller with a disturbance observer can achieve accurate impedance control. However, it works only for robots in free motion but not robot-environment interaction. Although a disturbance observer is able to accurately estimate the dynamic uncertainties, the estimation is lumped uncertainties that contain all uncertainty sources including both the internal and the external disturbances. Without separating these two parts, the method of combining an impedance controller and an observer will result in the human-applied force being canceled instead of interacting with the robot. To solve this problem in this paper, we propose a framework for learning the internal disturbances and separating the external disturbances by integrating three entities: an impedance controller, a neural network (NN) model, and a disturbance observer. In the framework, the impedance controller provides compliant robot behavior, while the observer captures the lumped uncertainties, and the NN learns to separate the external disturbances. Simulation results of an application scenario with an obstructive virtual fixture demonstrate the effectiveness of the proposed framework._ |
+
+------------
 
 3. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "Integrating Impedance Control and Nonlinear Disturbance Observer for Robot-Assisted Arthroscope Control in Elbow Arthroscopic Surgery". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, **2022**, pp. 11172-11179. doi: 10.1109/IROS47612.2022.9981208. _(with a 3DOF PHANToM Premium 1.5A robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981208)] [[Demo Video](https://youtu.be/f54Iah0yuWk)]  [[ResearchGate](https://www.researchgate.net/publication/364676968_Integrating_Impedance_Control_and_Nonlinear_Disturbance_Observer_for_Robot-Assisted_Arthroscope_Control_in_Elbow_Arthroscopic_Surgery)]
 
+      | _Demo video (click to watch the full video)_ |
+      | [![This is a gif image.](../)](https://youtu.be/f54Iah0yuWk) |
+
+      | _ABSTRACT: Robot-assisted arthroscopic surgery is transforming the tradition in orthopaedic surgery. Compliance and stability are essential features that a surgical robot must have for safe physical human-robot interaction (pHRI). Surgical tools attached at the robot end-effector and human-robot interaction will affect the robot dynamics inevitably. This could undermine the utility and stability of the robotic system if the varying robot dynamics are not identified and updated in the robot control law. In this paper, an integrated framework for robot impedance control and nonlinear disturbance observer (NDOB)-based compensation of uncertain dynamics is proposed, where the former ensures compliant robot behavior and the latter compensates for dynamic uncertainties when necessary. The combination of impedance controller and NDOB is analyzed theoretically in three scenarios. A complete simulation and experimental studies involving three common conditions are then conducted to evaluate the theoretical analyses. A preliminary pHRI application on arthroscopic surgery is designed to implement the proposed framework on a robotic surgeon-assist system and evaluate its effectiveness experimentally. By integrating impedance controller with NDOB, the proposed framework allows an accurate impedance control when dynamic model inaccuracy and external disturbance exist._ |
+
+------------
+
 4. **Teng Li**, Hongjun Xing, Hamid D. Taghirad, and Mahdi Tavakoli. "EMG-Based Hybrid Impedance-Force Control for Human-Robot Collaboration on Ultrasound Imaging". In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, **2022**, pp. 670-675. doi: 10.1109/IROS47612.2022.9981615. _(with a 7DOF Franka Emika Panda robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/9981615)] [[Demo Video](https://youtu.be/kgMYiFkA3qk)]  [[ResearchGate](https://www.researchgate.net/publication/364676896_EMG-based_Hybrid_Impedance-Force_Control_for_Human-Robot_Collaboration_on_Ultrasound_Imaging)]
+
+      | _Demo video (click to watch the full video)_ |
+      | [![This is a gif image.](../)](https://youtu.be/kgMYiFkA3qk) |
+
+      | _ABSTRACT: Ultrasound (US) imaging is a common but physically demanding task in the medical field, and sonographers may need to put in considerable physical effort for producing high-quality US images. During physical human-robot interaction on US imaging, robot compliance is a critical feature that can ensure human user safety while automatic force regulation ability can help to improve task performance. However, higher robot compliance may mean lower force regulation accuracy, and vice versa. Especially, the contact/non-contact status transition can largely affect the control system stability. In this paper, a novel electromyography (EMG)-based hybrid impedance-force control system is developed for US imaging task. The proposed control system incorporates the robot compliance and force regulation ability via a hybrid controller while the EMG channel enables the user to online modulate the trade-off between the two features as necessary. Two experiments are conducted to examine the hybrid controller and show the necessity of involving an EMG-based modulator. A proof-of-concept study on US imaging is performed with implementing the proposed EMG-based control system, and the effectiveness is demonstrated. The proposed control system is promising to ensure robot's stability and patient's safety, thus obtain high-quality US images, while monitoring and reducing sonographer's fatigue. Furthermore, it can be easily adapted to other physically demanding tasks in the field of medicine._ |
+
+------------
 
 5. **Teng Li**, Ali Torabi, Hongjun Xing, and Mahdi Tavakoli. "Improving A User’s Haptic Perceptual Sensitivity by Optimizing Effective Manipulability of A Redundant User Interface". In 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, August 11-13, Montreal, QC, Canada, **2021**, pp. 1–5. _(with a 4DOF planar robot)_ [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9551140)]  [[ResearchGate](https://www.researchgate.net/publication/353957917_IMPROVING_A_USER'S_HAPTIC_PERCEPTUAL_SENSITIVITY_BY_OPTIMIZING_EFFECTIVE_MANIPULABILITY_OF_A_REDUNDANT_USER_INTERFACE)]
 
+      | _Figure: Flowwork of the proposed NN learning procedures._ |
+      | [<img src="../" width="60%" height="60%">](https://ieeexplore.ieee.org/abstract/document/9551140) |
+
+      | _ABSTRACT: Human perceptual sensitivity of various types of forces, e.g., stiffness and friction, is important for surgeons during robotic surgeries such as needle insertion and palpation. However, force feedback from robot end-effector is usually a combination of desired and undesired force components which could have an effect on the perceptual sensitivity of the desired one. In presence of undesired forces, to improve perceptual sensitivity of desired force could benefit robotic surgical outcomes. In this paper, we investigate how users' perceptual sensitivity of friction and stiffness can be improved by taking advantage of kinematic redundancy of a user interface. Experimental results indicated that the perceptual sensitivity of both friction and stiffness can be significantly improved by maximizing the effective manipulability of the redundant user interface in its null space. The positive results provide a promising perspective to enhance surgeons' haptic perceptual ability by making use of the robot redundancy._ |
+
+------------
 
 
