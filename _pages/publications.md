@@ -24,7 +24,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Papers in journals
 ------
-1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
+- **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp1.gif)](https://youtu.be/2BzboHYSa68) |
@@ -47,27 +47,27 @@ Papers in journals
 <!-- https://youtu.be/2BzboHYSa68 -->
 
 
-------------
 
-2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "<font color="RoyalBlue">A Brief Survey of Observers for Disturbance Estimation and Compensation</font>". <font color="DarkGoldenRod"> Robotica</font>, 41(12), 3818–3845, **2023**. Cambridge University Press. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
+
+- **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "<font color="RoyalBlue">A Brief Survey of Observers for Disturbance Estimation and Compensation</font>". <font color="DarkGoldenRod"> Robotica</font>, 41(12), 3818–3845, **2023**. Cambridge University Press. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p007_Robotica_obs123/2023Robotica_obs123ExpMerged.gif)](https://youtu.be/6ePnym57jPU) |
 
       | _ABSTRACT: An accurate dynamic model of a robot is fundamentally important for a control system, while uncertainties residing in the model are inevitable in a physical robot system. The uncertainties can be categorized as internal disturbances and external disturbances in general. The former may include dynamic model errors and joint frictions, while the latter may include external payloads or human-exerted force to the robot. Disturbance observer is an important technique to estimate and compensate for the uncertainties of the dynamic model. Different types of disturbance observers have been developed to estimate the lumped uncertainties so far. In this paper, we conducted a brief survey on five typical types of observers from a perspective of practical implementation in a robot control system, including generalized momentum observer (GMO), joint velocity observer (JVOB), nonlinear disturbance observer (NDOB), disturbance Kalman filter (DKF), and extended state observer (ESO). First, we introduced the basics of each observer including equations and derivations. Two common types of disturbances are considered as two scenarios, that is, constant external disturbance and time-varying external disturbance. Then, the observers are separately implemented in each of the two simulated scenarios, and the disturbance tracking performance of each observer is presented while their performance in the same scenario has also been compared in the same figure. Finally, the main features and possible behaviors of each type of observer are summarized and discussed. This survey is devoted to helping readers learn the basic expressions of five typical observers and implement them in a robot control system._ |
 
-------------
 
-3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review</font>". <font color="DarkGoldenRod"> Applied Sciences</font>, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
+
+- **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review</font>". <font color="DarkGoldenRod"> Applied Sciences</font>, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
 
       | _Figure: Robotic systems (RSs) in the timeline._ |
       | [<img src="../teng4_Papers/p006_MDPI_Orthopedics/2023applsci_timeline.jpg" width="60%" height="60%">](https://www.mdpi.com/2076-3417/13/17/9768) |
 
       | _ABSTRACT: Since the da Vinci surgical system was approved by the Food and Drug Administration (FDA) in 2000, the development and deployment of various robot-assisted minimally invasive surgery (MIS) systems have been largely expedited and boomed. With the rapid advancement of robotic techniques in recent decades, robot-assisted systems have been widely used in various surgeries including orthopedics. These robot-related techniques are transforming the conventional ways to conduct surgical procedures. Robot-assisted orthopedic surgeries have become more and more popular due to their potential benefits of increased accuracy and precision in surgical outcomes, enhanced reproducibility, reduced technical variability, decreased pain, and faster recovery time. In this paper, robotic systems and navigation techniques in typical orthopedic surgeries are reviewed, especially for arthroplasty. From the perspective of robotics and engineering, the systems and techniques are divided into two main categories, i.e., robotic systems (RSs), and computer-aided navigation systems (CANSs). The former is further divided into autonomous RS, hands-on RS, and teleoperated RS. For the latter, three key elements in CANS are introduced, including 3D modeling, registration, and navigation. Lastly, the potential advantages and disadvantages of the RS and CANS are summarized and discussed. Future perspectives on robotics in orthopedics, as well as the challenges, are presented._ |
 
-------------
 
-4. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "<font color="RoyalBlue">Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging</font>". <font color="DarkGoldenRod"> Sensors</font>, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(<font color="LightGray"> with a 7DOF Franka Emika Panda robot </font>)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
+
+- **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "<font color="RoyalBlue">Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging</font>". <font color="DarkGoldenRod"> Sensors</font>, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(<font color="LightGray"> with a 7DOF Franka Emika Panda robot </font>)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p001_MDPI_Sensors/MDPIsensorsVideoClipExp2b.gif)](https://youtu.be/NkqlawDmJrM) |
@@ -75,6 +75,10 @@ Papers in journals
       | _ABSTRACT: The COVID-19 pandemic has brought unprecedented extreme pressure on the medical system due to the physical distance policy, especially for procedures such as ultrasound (US) imaging, which are usually carried out in person. Tele-operation systems are a promising way to avoid physical human-robot interaction (pHRI). However, the system usually requires another robot on the remote doctor side to provide haptic feedback, which makes it expensive and complex. To reduce the cost and system complexity, in this paper, we present a low-cost, easy-to-use, dual-mode pHRI-teleHRI control system with a custom-designed hybrid admittance-force controller for US imaging. The proposed system requires only a tracking camera rather than a sophisticated robot on the remote side. An audio feedback is designed for replacing haptic feedback on the remote side, and its sufficiency is experimentally verified. The experimental results indicate that the designed hybrid controller can significantly improve the task performance in both modes. Furthermore, the proposed system enables the user to conduct US imaging while complying with the physical distance policy, and allows them to seamlessly switch modes from one to another in an online manner. The novel system can be easily adapted to other medical applications beyond the pandemic, such as tele-healthcare, palpation, and auscultation._ |
 
 ------------
+
+
+
+
 
 
 Papers in conferences
