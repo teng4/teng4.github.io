@@ -31,6 +31,17 @@ Papers in journals
 
       | _ABSTRACT: Robot-assisted arthroscopic surgery has been increasingly receiving attention in orthopedic surgery. To build a robot-assisted system, dynamic uncertainties can be a critical issue that could bring robot performance inaccuracy or even system instability if cannot be appropriately compensated. Disturbance observer is a common tool to be used for disturbance estimation and compensation by taking all uncertainties as disturbances, but this will refuse human-robot interaction since the human-applied force will also be regarded as a disturbance by the observer. Iterative learning for gravity compensation can be another promising way to solve this problem when gravity compensation is the main concern. In this paper, a gravity iterative learning (Git) scheme in Cartesian space for gravity compensation, integrating with an impedance controller, is presented. A steady-state scaling strategy is then proposed which released the updating requirements of the learning scheme and also extended its validity to trajectory-tracking scenarios from set-point regulations. The deriving process and convergence properties of the Git scheme are presented and theoretically analyzed, respectively. A series of simulations and physical experiments are conducted to evaluate the validity of the scaling strategy, the learning accuracy of the Git scheme, and the effectiveness of the learning-based impedance controller. Both simulation and experimental results demonstrate good performance and properties of the Git scheme and the learning-based impedance controller._ |
 
+<span style="color: green"> Some green text 01 </span>
+
+<font color="green"> Some green text 02 </font>
+
+$\colorbox{red}{text 03}$
+
+$\color[rgb]{1,0,1} hello 04$
+
+$\textcolor{red}{text 05}$
+
+$\textcolor{yellow}{This\ is\ a\ Big\ Title 06}$
       
 <!-- | _The proposed Git scheme is implemented in a simulated arthroscopic surgery scenario._ | -->
 <!-- This is a image. --teng4note, use either method for image is ok, and use either absolut/relative path for image is also ok. -->
