@@ -24,7 +24,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Papers in journals
 ------
-- **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
+1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp1.gif)](https://youtu.be/2BzboHYSa68) |
@@ -49,7 +49,7 @@ Papers in journals
 
 
 
-- **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "<font color="RoyalBlue">A Brief Survey of Observers for Disturbance Estimation and Compensation</font>". <font color="DarkGoldenRod"> Robotica</font>, 41(12), 3818–3845, **2023**. Cambridge University Press. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
+2. **Teng Li**, Hongjun Xing, Ehsan Hashemi, Hamid D. Taghirad, Mahdi Tavakoli. "<font color="RoyalBlue">A Brief Survey of Observers for Disturbance Estimation and Compensation</font>". <font color="DarkGoldenRod"> Robotica</font>, 41(12), 3818–3845, **2023**. Cambridge University Press. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[Robotica OA](https://doi.org/10.1017/S0263574723001091)] [[Demo Video](https://youtu.be/6ePnym57jPU)] [[ResearchGate](https://www.researchgate.net/publication/374229090_A_Brief_Survey_of_Observers_for_Disturbance_Estimation_and_Compensation)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p007_Robotica_obs123/2023Robotica_obs123ExpMerged.gif)](https://youtu.be/6ePnym57jPU) |
@@ -58,7 +58,7 @@ Papers in journals
 
 
 
-- **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review</font>". <font color="DarkGoldenRod"> Applied Sciences</font>, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
+3. **Teng Li**, Armin Badre, Farshid Alambeigi, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Systems and Navigation Techniques in Orthopedics: A Historical Review</font>". <font color="DarkGoldenRod"> Applied Sciences</font>, Section: Robotics and Automation, Special Issue: Surgical Robotics Design and Clinical Applications. 13(17):9768, **2023**. [[MDPI-applsci](https://www.mdpi.com/2076-3417/13/17/9768)] [[ResearchGate](https://www.researchgate.net/publication/373484618_Robotic_Systems_and_Navigation_Techniques_in_Orthopedics_A_Historical_Review)]
 
       | _Figure: Robotic systems (RSs) in the timeline._ |
       | [<img src="../teng4_Papers/p006_MDPI_Orthopedics/2023applsci_timeline.jpg" width="60%" height="60%">](https://www.mdpi.com/2076-3417/13/17/9768) |
@@ -67,7 +67,7 @@ Papers in journals
 
 
 
-- **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "<font color="RoyalBlue">Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging</font>". <font color="DarkGoldenRod"> Sensors</font>, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(<font color="LightGray"> with a 7DOF Franka Emika Panda robot </font>)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
+4. **Teng Li**, Xiao Meng, and Mahdi Tavakoli. "<font color="RoyalBlue">Dual Mode pHRI-teleHRI Control System with A Hybrid Admittance-Force Controller for Ultrasound Imaging</font>". <font color="DarkGoldenRod"> Sensors</font>, Section: Sensors and Robotics, Special Issue: Sensors Technology for Medical Robotics. 22(11):4025, **2022**.   _(<font color="LightGray"> with a 7DOF Franka Emika Panda robot </font>)_ [[MDPI](https://www.mdpi.com/1424-8220/22/11/4025/htm)] [[Demo Video](https://youtu.be/NkqlawDmJrM)]  [[ResearchGate](https://www.researchgate.net/publication/360969094_Dual_Mode_pHRI-teleHRI_Control_System_with_a_Hybrid_Admittance-Force_Controller_for_Ultrasound_Imaging)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p001_MDPI_Sensors/MDPIsensorsVideoClipExp2b.gif)](https://youtu.be/NkqlawDmJrM) |
