@@ -1,4 +1,0 @@
----------
-Summary:
----------
-This video contains four simulations and two experiments presented in the paper for evaluating the effectiveness of the point-based VF (virtual fixture) algorithm.
