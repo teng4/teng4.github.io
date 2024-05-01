@@ -7,9 +7,22 @@ redirect_from:
   - /markdown.html
 ---
 
+**Useful links**
+
 * [Markdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/01-markdown-cheat-sheet)
 * [kramdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/02-kramdown-cheat-sheet)
 * [kramdown Syntax full](https://kramdown.gettalong.org/syntax.html)
+
+
+------------
+
+**Table of Contents**
+
+* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
+------------
+
 
 ## Locations of key files/directories
 
