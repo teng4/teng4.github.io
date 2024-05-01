@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+* [Markdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/01-markdown-cheat-sheet)
+* [kramdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/02-kramdown-cheat-sheet)
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
