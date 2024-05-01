@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 output:
-  rmarkdown::html_document:
+  blogdown::html_page:
     toc: true
 ---
 
