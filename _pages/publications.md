@@ -68,7 +68,12 @@ Papers in journals
 
 
 
+**Table of Contents**
 
+* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
+------------
 
 
 Papers in conferences
@@ -115,6 +120,14 @@ Papers in conferences
       | [<img src="../teng4_Papers/p000_ICAS21/ICAS21_4dofRobot.png" width="60%" height="60%">](https://ieeexplore.ieee.org/abstract/document/9551140) |
 
       | <details> ABSTRACT: Human perceptual sensitivity of various types of forces, e.g., stiffness and friction, is important for surgeons during robotic surgeries such as needle insertion and palpation. However, force feedback from robot end-effector is usually a combination of desired and undesired force components which could have an effect on the perceptual sensitivity of the desired one. In presence of undesired forces, to improve perceptual sensitivity of desired force could benefit robotic surgical outcomes. In this paper, we investigate how users' perceptual sensitivity of friction and stiffness can be improved by taking advantage of kinematic redundancy of a user interface. Experimental results indicated that the perceptual sensitivity of both friction and stiffness can be significantly improved by maximizing the effective manipulability of the redundant user interface in its null space. The positive results provide a promising perspective to enhance surgeons' haptic perceptual ability by making use of the robot redundancy. </details> |
+
+------------
+
+
+**Table of Contents**
+
+* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
 
 ------------
 
