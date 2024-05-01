@@ -9,6 +9,7 @@ redirect_from:
 
 * [Markdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/01-markdown-cheat-sheet)
 * [kramdown cheatsheet](https://dieghernan.github.io/chulapa-101/cheatsheets/02-kramdown-cheat-sheet)
+* [kramdown Syntax full](https://kramdown.gettalong.org/syntax.html)
 
 ## Locations of key files/directories
 
