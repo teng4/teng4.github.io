@@ -68,12 +68,6 @@ Papers in journals
 
 
 
-**Table of Contents**
-
-+ This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
-{:toc}
-
-------------
 
 
 Papers in conferences
@@ -124,11 +118,7 @@ Papers in conferences
 ------------
 
 
-**Table of Contents**
 
-* {:toc}
-
-------------
 
 
 <!-- <details> <summary> This is a summary.</summary> </details> -->
