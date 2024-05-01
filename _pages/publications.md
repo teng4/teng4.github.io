@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+output:
+  rmarkdown::html_document:
+    toc: true
 ---
 
 <!-- {% if site.author.googlescholar %} -->
