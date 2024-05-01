@@ -70,7 +70,7 @@ Papers in journals
 
 **Table of Contents**
 
-* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
++ This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
 {:toc}
 
 ------------
@@ -126,8 +126,7 @@ Papers in conferences
 
 **Table of Contents**
 
-* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
-{:toc}
+* {:toc}
 
 ------------
 
