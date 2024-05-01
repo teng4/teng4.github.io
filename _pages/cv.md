@@ -12,7 +12,15 @@ redirect_from:
 The PDF version of my CV can be found [here]().
 
 
-------
+------------
+
+**Table of Contents**
+
+* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
+------------
+
 
 
 Education
@@ -142,7 +150,7 @@ Publications
    [In Chinese] [[SciEngine](https://www.sciengine.com/SSI/doi/10.1360/N112017-00213)]
 
 
-------
+------------
 
 
 <!-- Publications -->
