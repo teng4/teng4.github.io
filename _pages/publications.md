@@ -3,9 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-output:
-  blogdown::html_page:
-    toc: true
+toc: true
 ---
 
 <!-- {% if site.author.googlescholar %} -->
