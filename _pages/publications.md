@@ -21,13 +21,16 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ------------
 
-* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
+
+Table of Contents
+------
+* This line is needed for generating TOC (Table of Contents), but won't appear. Replace '*' with '1' to create a numbered list.
 {:toc}
 
+------------
 
 
-
-Papers in journals  {#id}
+Papers in journals  {#1}
 ------
 1. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
