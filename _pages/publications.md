@@ -21,6 +21,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ------------
 
+* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
 
 <p>This is a paragraph
 <!-- 
