@@ -11,8 +11,8 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  //color: #fff !important; //teng4 modified.
-  color: green !important;
+  //color: #fff !important; //teng4note, original.
+  color: #bb0000 !important; //teng4 modified.
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -24,16 +24,18 @@
   cursor: pointer;
 
   &:hover {
-    //background-color: mix(white, #000, 20%); //teng4 modified.
-    background-color: red; //teng4 modified.
+    //background-color: mix(white, #000, 20%);  //teng4note, original.
+    background-color: #ff0084; //teng4 modified.
   }
 
   .icon {
-    margin-right: 0.5em;
+    //margin-right: 0.5em;  //teng4note, original.
+    margin-right: 2.5em; //teng4 modified.
   }
 
   .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+    //margin-left: -0.5em; /* override for hidden text*/  //teng4note, original.
+    margin-left: -2.5em; //teng4 modified.
   }
 
   /* fills width of parent container */
@@ -43,7 +45,8 @@
     width: 100%;
 
     + .btn--block {
-      margin-top: 0.25em;
+      //margin-top: 0.25em;  //teng4note, original.
+      margin-top: 2.25em; //teng4 modified.
     }
   }
 
