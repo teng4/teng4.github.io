@@ -5,8 +5,8 @@
 .masthead {
   position: fixed;
   background: white;
-  //border-bottom: 1px solid $border-color;
-  border-bottom: 1px solid $twitter-color;
+  //border-bottom: 1px solid $border-color; //teng4note, original.
+  border-bottom: 1px solid $twitter-color; //teng4, modified.
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -19,7 +19,7 @@
 
   &__inner-wrap {
     @include container;
-    @include clearfix;
+    //@include clearfix; //teng4note, original.
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
