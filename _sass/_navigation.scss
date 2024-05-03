@@ -185,7 +185,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      //color: $masthead-link-color-hover; //teng4note, orginal.
+      color: red; //teng4, modified.
     }
   }
 
@@ -196,8 +197,10 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    //background-color: $primary-color; //teng4note, orginal.
+    background-color: $orcid-color; //teng4, modified.
+    //color: #fff; //teng4note, orginal.
+    color: $google-plus-color; //teng4, modified.
     cursor: pointer;
   }
 
