@@ -292,8 +292,8 @@ nav {
   a {
     text-decoration: none;
      
-    &:not(.active) { //teng4 added whole block of not(.active).
-      color: $xing-color; //$orcid-color;
+    &:.active { //teng4 added whole block of not(.active).
+      color: red; //$orcid-color;
     }
   }
 
