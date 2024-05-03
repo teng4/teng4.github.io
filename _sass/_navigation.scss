@@ -253,6 +253,29 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+
+    .active {//teng4, newly added here below for the whole active.
+    //teng4, newly added here below.
+    position: relative;
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    //background: mix(#fff, $primary-color, 50%); //teng4note, original.
+    background: $pinterest-color; //red; //teng4, modified. here will change the thick underline line color in the masthead.
+    width: 100%;
+    -webkit-transition: $global-transition; //teng4, newly added here.
+    transition: $global-transition; //teng4, newly added here.
+    -webkit-transform: scaleX(1); //teng4, newly added here.
+        -ms-transform: scaleX(1); //teng4, newly added here.
+            transform: scaleX(1); /* reveal*/  //teng4, newly added here.
+
+    &:hover {
+      color: #fff; //teng4note, original.
+      //color: red;  //teng4, modified. note, may not reflected as it is using another nav mode.
+    }
+  }
   }
 
   .hidden-links {
