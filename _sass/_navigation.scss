@@ -198,7 +198,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    //background-color: $primary-color; //original.
+    background-color: $orcid-color; //teng4, modified.
     color: #fff;
     cursor: pointer;
   }
