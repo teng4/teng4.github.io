@@ -297,11 +297,9 @@ nav {
     }
 
     &:hover { //teng4 added whole block of hover.
-      color: $xing-color;
+      color: $xing-color; //$orcid-color;
     }
 
-    &:active { //teng4 added whole block of active.
-      color: $orcid-color;
     }
   }
 
