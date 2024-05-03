@@ -343,10 +343,12 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    //color: #fff; //teng4note, original.
+    color: $mastodon-color; //$pinterest-color; //red; //$vine-color; //red; //teng4, modified.
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
+    transform: scaleX(1); /* reveal*/ //teng4, newly added here.
 
     &:hover {
       color: #fff; //teng4note, original.
