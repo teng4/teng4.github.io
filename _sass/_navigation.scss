@@ -181,13 +181,13 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0; 
-    //color: $masthead-link-color; //teng4note, orginal.
+    //color: $masthead-link-color; //teng4note, original.
     color: $twitter-color; //$warning-color; //teng4, modified. teng4note, set the default color of the texts.
-    text-decoration: none; //teng4note, orginal.
+    text-decoration: none; //teng4note, original.
     //text-decoration: underline; //teng4, modified. teng4note, underline will have underline the text, but not the animation underline.
 
     &:hover {
-      //color: $masthead-link-color-hover; //teng4note, orginal.
+      //color: $masthead-link-color-hover; //teng4note, original.
       color: red; //$vine-color; //red; //teng4, modified. teng4note, set the text color when the pointer hovers.
     }
   }
@@ -199,9 +199,9 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    //background-color: $primary-color; //teng4note, orginal.
+    //background-color: $primary-color; //teng4note, original.
     background-color: $orcid-color; //teng4, modified.
-    //color: #fff; //teng4note, orginal.
+    //color: #fff; //teng4note, original.
     color: $behance-color; //$google-plus-color; //teng4, modified.
     cursor: pointer;
   }
@@ -241,9 +241,9 @@
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+        -webkit-transform: scaleX(1); //teng4note, original is scaleX(0) --> modified to scaleX(0).
+            -ms-transform: scaleX(1);
+                transform: scaleX(1); /* hide*/
       }
 
       &:hover:before {
@@ -271,9 +271,9 @@
       font-size: $type-size-5;
 
       &:hover {
-        //color: $masthead-link-color-hover; //teng4note, orginal.
+        //color: $masthead-link-color-hover; //teng4note, original.
         color: #fff; //teng4, modified.
-        //background: mix(#fff, $primary-color, 75%); //teng4note, orginal.
+        //background: mix(#fff, $primary-color, 75%); //teng4note, original.
         background: $rss-color; //teng4, modified.
       }
     }
