@@ -20,7 +20,8 @@
   &__inner-wrap {
     @include container;
     //@include clearfix; //teng4note, original.
-    padding: 1em 1em 1em;
+    //padding: 1em 1em 1em; //teng4note, original.
+    padding: 2em 2em 2em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
