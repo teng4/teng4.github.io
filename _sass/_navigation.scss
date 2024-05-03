@@ -180,15 +180,15 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.5rem 0; 
     //color: $masthead-link-color; //teng4note, orginal.
-    color: $warning-color; //teng4, modified.
-    //text-decoration: none; //teng4note, orginal.
-    text-decoration: underline; //teng4, modified.
+    color: $twitter-color; //$warning-color; //teng4, modified. teng4note, set the default color of the texts.
+    text-decoration: none; //teng4note, orginal.
+    //text-decoration: underline; //teng4, modified. teng4note, underline will have underline the text, but not the animation underline.
 
     &:hover {
       //color: $masthead-link-color-hover; //teng4note, orginal.
-      color: $vine-color; //red; //teng4, modified.
+      color: red; //$vine-color; //red; //teng4, modified. teng4note, set the text color when the pointer hovers.
     }
   }
 
@@ -271,8 +271,10 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        //color: $masthead-link-color-hover; //teng4note, orginal.
+        color: #fff; //teng4, modified.
+        //background: mix(#fff, $primary-color, 75%); //teng4note, orginal.
+        background: $rss-color; //teng4, modified.
       }
     }
 
@@ -331,8 +333,8 @@
     color: inherit;
 
     &:hover {
-      //text-decoration: underline; //teng4note, original.
-      text-decoration: none; //teng4, modified.
+      text-decoration: underline; //teng4note, original.
+      //text-decoration: none; //teng4, modified. note, may not reflected as it is using another nav mode.
     }
   }
 
@@ -346,8 +348,8 @@
     border-radius: $border-radius;
 
     &:hover {
-      //color: #fff; //teng4note, original.
-      color: red;  //teng4, modified.
+      color: #fff; //teng4note, original.
+      //color: red;  //teng4, modified. note, may not reflected as it is using another nav mode.
     }
   }
 }
