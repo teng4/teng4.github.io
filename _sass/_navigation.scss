@@ -242,9 +242,9 @@
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
-        -webkit-transform: scaleX(1); //teng4note, original is scaleX(0) --> modified to scaleX(1).
-            -ms-transform: scaleX(1); //teng4note, original is scaleX(0) --> modified to scaleX(1).
-                transform: scaleX(1); /* hide*/ //teng4note, original is scaleX(0) --> modified to scaleX(1).
+        -webkit-transform: scaleX(0); //teng4note, cannot modified to scaleX(1) here, because all text will have the underline always.
+            -ms-transform: scaleX(0); 
+                transform: scaleX(0); /* hide*/ 
       }
 
       &:hover:before {
