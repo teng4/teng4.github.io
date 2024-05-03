@@ -21,7 +21,7 @@
     @include container;
     //@include clearfix; //teng4note, original.
     //padding: 1em 1em 1em; //teng4note, original.
-    padding: 2em 2em 2em;
+    padding: 2em 2em 2em; //teng4, modified.
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -42,8 +42,9 @@
 
   ul {
     margin: 0;
-    padding: 0;
-    clear: both;
+    //padding: 0; //teng4note, original.
+    padding: 1em; //teng4, modified.
+    //clear: both; //teng4note, original.
     list-style-type: none;
   }
 }
