@@ -291,6 +291,10 @@ nav {
 
   a {
     text-decoration: none;
+     
+    &:active {
+      color: $xing-color; //$orcid-color;
+    }
   }
 
   /* override white-space for nested lists */
