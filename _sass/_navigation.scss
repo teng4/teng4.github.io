@@ -326,7 +326,8 @@
     color: inherit;
 
     &:hover {
-      text-decoration: underline;
+      //text-decoration: underline; //teng4note, original.
+      text-decoration: none; //teng4, modified.
     }
   }
 
@@ -340,7 +341,8 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      //color: #fff; //teng4note, original.
+      color: red;  //teng4, modified.
     }
   }
 }
