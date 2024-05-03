@@ -5,8 +5,7 @@
 .masthead {
   position: fixed;
   background: white;
-  //border-bottom: 1px solid $border-color; //teng4note, original.
-  border-bottom: 1px solid $twitter-color; //teng4, modified.
+  border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -19,9 +18,8 @@
 
   &__inner-wrap {
     @include container;
-    @include clearfix; //teng4note, original.
-    padding: 1em 1em 1em; //teng4note, original.
-    //padding: 2em 2em 2em; //teng4, modified.
+    @include clearfix;
+    padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -42,9 +40,8 @@
 
   ul {
     margin: 0;
-    padding: 0; //teng4note, original.
-    //padding: 1em; //teng4, modified.
-    clear: both; //teng4note, original.
+    padding: 0;
+    clear: both;
     list-style-type: none;
   }
 }
@@ -52,12 +49,10 @@
 .masthead__menu-item {
   display: block;
   list-style-type: none;
-  white-space: nowrap; //teng4note, original.
+  white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;  //teng4note, original.
-    font-weight: 700; //teng4note, original.
-    //padding-right: 4em; //teng4, modified.
-    //font-weight: 300; //teng4, modified.
+    padding-right: 2em;
+    font-weight: 700;
   }
 }

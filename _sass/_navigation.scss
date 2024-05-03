@@ -131,8 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    //color: mix(#fff, $gray, 50%); //teng4note, original.
-    color: red; //$vine-color; //teng4, modified.
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -181,21 +180,14 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0; 
-    //color: $masthead-link-color; //teng4note, original.
-    color: $linkedin-color; //$twitter-color; //$warning-color; //teng4, modified. teng4note, set the default color of the texts.
-    text-decoration: none; //teng4note, original.
-    //text-decoration: underline; //teng4, modified. teng4note, underline will have underline the text, but not the animation underline.
+    padding: 0.5rem 0;
+    color: $masthead-link-color;
+    text-decoration: none;
 
-     
     &:hover {
-      //color: $masthead-link-color-hover; //teng4note, original.
-      color: $pinterest-color; //red; //$vine-color; //red; //teng4, modified. teng4note, set the text color when the pointer hovers.
+      color: $masthead-link-color-hover;
     }
-    
   }
-
-  
 
   button {
     position: absolute;
@@ -204,10 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    //background-color: $primary-color; //teng4note, original.
-    background-color: $orcid-color; //teng4, modified.
-    //color: #fff; //teng4note, original.
-    color: $behance-color; //$google-plus-color; //teng4, modified.
+    background-color: $primary-color;
+    color: #fff;
     cursor: pointer;
   }
 
@@ -242,22 +232,20 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        //background: mix(#fff, $primary-color, 50%); //teng4note, original.
-        background: $pinterest-color; //red; //teng4, modified. here will change the thick underline line color in the masthead.
+        background: mix(#fff, $primary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
-        -webkit-transform: scaleX(0); //teng4note, cannot modified to scaleX(1) here, because all text will have the underline always.
-            -ms-transform: scaleX(0); 
-                transform: scaleX(0); /* hide*/ 
+        -webkit-transform: scaleX(0);
+            -ms-transform: scaleX(0);
+                transform: scaleX(0); /* hide*/
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
-      }      
-
+      }
     }
   }
 
@@ -278,10 +266,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        //color: $masthead-link-color-hover; //teng4note, original.
-        color: red; //teng4, modified.
-        //background: mix(#fff, $primary-color, 75%); //teng4note, original.
-        background: $rss-color; //teng4, modified.
+        color: $masthead-link-color-hover;
+        background: mix(#fff, $primary-color, 75%);
       }
     }
 
@@ -340,8 +326,7 @@
     color: inherit;
 
     &:hover {
-      text-decoration: underline; //teng4note, original.
-      //text-decoration: none; //teng4, modified. note, may not reflected as it is using another nav mode.
+      text-decoration: underline;
     }
   }
 
@@ -349,20 +334,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    //color: #fff; //teng4note, original.
-    color: $mastodon-color; //$pinterest-color; //red; //$vine-color; //red; //teng4, modified.
+    color: #fff;
     font-weight: bold;
-    background: $primary-color; //teng4note, original.
-    //background: #000; //teng4, modified.
+    background: $primary-color;
     border-radius: $border-radius;
 
-    //teng4, newly added here below.
-     //deleted.
-
-
     &:hover {
-      color: #fff; //teng4note, original.
-      //color: red;  //teng4, modified. note, may not reflected as it is using another nav mode.
+      color: #fff;
     }
   }
 }
