@@ -14,7 +14,7 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<!--     {% include masthead.html %} -->
 
     {{ content }}
 
@@ -24,6 +24,8 @@ layout: compress
         {% include footer.html %}
       </footer>
     </div>
+    
+    {% include masthead.html %}
 
     {% include scripts.html %}
 
