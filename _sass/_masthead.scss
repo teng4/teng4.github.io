@@ -19,7 +19,7 @@
 
   &__inner-wrap {
     @include container;
-    //@include clearfix; //teng4note, original.
+    @include clearfix; //teng4note, original.
     padding: 1em 1em 1em; //teng4note, original.
     //padding: 2em 2em 2em; //teng4, modified.
     font-family: $sans-serif-narrow;
@@ -44,7 +44,7 @@
     margin: 0;
     padding: 0; //teng4note, original.
     //padding: 1em; //teng4, modified.
-    //clear: both; //teng4note, original.
+    clear: both; //teng4note, original.
     list-style-type: none;
   }
 }
@@ -55,9 +55,9 @@
   white-space: nowrap; //teng4note, original.
 
   &--lg {
-    //padding-right: 2em;  //teng4note, original.
-    //font-weight: 700; //teng4note, original.
-    padding-right: 4em; //teng4, modified.
-    font-weight: 300; //teng4, modified.
+    padding-right: 2em;  //teng4note, original.
+    font-weight: 700; //teng4note, original.
+    //padding-right: 4em; //teng4, modified.
+    //font-weight: 300; //teng4, modified.
   }
 }
