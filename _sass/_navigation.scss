@@ -256,16 +256,11 @@
       }
 
       &:hover:before {
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(1); /* reveal*/
-      }
-       
-      &:active:before { //teng4 added this block code.
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
-      }
+      }      
+
     }
   }
 
@@ -287,7 +282,7 @@
 
       &:hover {
         //color: $masthead-link-color-hover; //teng4note, original.
-        color: #fff; //teng4, modified.
+        color: #000; //teng4, modified.
         //background: mix(#fff, $primary-color, 75%); //teng4note, original.
         background: $rss-color; //teng4, modified.
       }
@@ -361,7 +356,7 @@
     color: $mastodon-color; //$pinterest-color; //red; //$vine-color; //red; //teng4, modified.
     font-weight: bold;
     //background: $primary-color; //teng4note, original.
-    background: #fff; //teng4, modified.
+    background: #000; //teng4, modified.
     border-radius: $border-radius;
 
     //teng4, newly added here below.
