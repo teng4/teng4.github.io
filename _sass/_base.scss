@@ -292,9 +292,9 @@ nav {
   a {
     text-decoration: none;
      
-    &:.active { //teng4 added whole block of not(.active).
-      color: red; //$orcid-color;
-    }
+    // &:.active { //teng4 added whole block of not(.active).
+    //   color: red; //$orcid-color;
+    // }
   }
 
   /* override white-space for nested lists */
