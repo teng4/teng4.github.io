@@ -181,12 +181,14 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
-    text-decoration: none;
+    //color: $masthead-link-color; //teng4note, orginal.
+    color: $warning-color; //teng4, modified.
+    //text-decoration: none; //teng4note, orginal.
+    text-decoration: underline; //teng4, modified.
 
     &:hover {
       //color: $masthead-link-color-hover; //teng4note, orginal.
-      color: red; //teng4, modified.
+      color: $vine-color; //red; //teng4, modified.
     }
   }
 
@@ -200,7 +202,7 @@
     //background-color: $primary-color; //teng4note, orginal.
     background-color: $orcid-color; //teng4, modified.
     //color: #fff; //teng4note, orginal.
-    color: $google-plus-color; //teng4, modified.
+    color: $behance-color; //$google-plus-color; //teng4, modified.
     cursor: pointer;
   }
 
