@@ -187,10 +187,7 @@
     text-decoration: none; //teng4note, original.
     //text-decoration: underline; //teng4, modified. teng4note, underline will have underline the text, but not the animation underline.
 
-    //&:not(.active) {//teng4 added whole block code.
-    //  color: $stackoverflow-color; //#fff;
-    //}
-
+     
     &:hover {
       //color: $masthead-link-color-hover; //teng4note, original.
       color: $pinterest-color; //red; //$vine-color; //red; //teng4, modified. teng4note, set the text color when the pointer hovers.
@@ -282,7 +279,7 @@
 
       &:hover {
         //color: $masthead-link-color-hover; //teng4note, original.
-        color: #000; //teng4, modified.
+        color: red; //teng4, modified.
         //background: mix(#fff, $primary-color, 75%); //teng4note, original.
         background: $rss-color; //teng4, modified.
       }
@@ -355,11 +352,12 @@
     //color: #fff; //teng4note, original.
     color: $mastodon-color; //$pinterest-color; //red; //$vine-color; //red; //teng4, modified.
     font-weight: bold;
-    //background: $primary-color; //teng4note, original.
-    background: #000; //teng4, modified.
+    background: $primary-color; //teng4note, original.
+    //background: #000; //teng4, modified.
     border-radius: $border-radius;
 
     //teng4, newly added here below.
+     //deleted.
 
 
     &:hover {
