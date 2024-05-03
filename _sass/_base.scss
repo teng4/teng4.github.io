@@ -292,7 +292,7 @@ nav {
   a {
     text-decoration: none;
      
-    &:active {
+    &:active { //teng4, added.
       color: $xing-color; //$orcid-color;
     }
   }
