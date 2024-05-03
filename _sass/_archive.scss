@@ -21,8 +21,8 @@
       text-decoration: underline;
 
       img {
-        //box-shadow: 0 0 10px rgba(#000, 0.25); //teng4note, original.
-        box-shadow: 0 0 20px rgba(#d51007, 0.95); //teng4, modified.
+        box-shadow: 0 0 10px rgba(#000, 0.25); //teng4note, original.
+        //box-shadow: 0 0 20px rgba(#d51007, 0.95); //teng4, modified.
       }
     }
   }
@@ -32,10 +32,10 @@
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
-  //color: mix(#fff, $gray, 25%); //teng4note, original.
-  color: #ea4c89; //teng4, modified.
-  //border-bottom: 1px solid $border-color; //teng4note, original.
-  border-bottom: 5px solid $kaggle-color; //teng4, modified.
+  color: mix(#fff, $gray, 25%); //teng4note, original.
+  //color: #ea4c89; //teng4, modified.
+  border-bottom: 1px solid $border-color; //teng4note, original.
+  //border-bottom: 5px solid $kaggle-color; //teng4, modified.
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
