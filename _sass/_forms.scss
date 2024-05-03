@@ -86,8 +86,8 @@ select {
   box-shadow: $box-shadow;
 
   &:hover {
-    //border-color: mix(#fff, $primary-color, 50%); //teng4note, original.
-    border-color: mix(#fff, $primary-color, 50%); //teng4, modified.
+    border-color: mix(#fff, $primary-color, 50%); //teng4note, original.
+    //border-color: mix(#fff, $primary-color, 50%); //teng4, modified.
   }
 }
 
@@ -222,8 +222,8 @@ textarea[readonly] {
 
 input:focus,
 textarea:focus {
-  //border-color: $primary-color; //teng4note, original.
-  border-color: red; //teng4, modified.
+  border-color: $primary-color; //teng4note, original.
+  //border-color: red; //teng4, modified.
   outline: 0;
   outline: thin dotted \9;
 }
