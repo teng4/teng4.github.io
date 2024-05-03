@@ -131,7 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    //color: mix(#fff, $gray, 50%); //teng4note, original.
+    color: red; //$vine-color; //teng4, modified.
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -190,6 +191,32 @@
       //color: $masthead-link-color-hover; //teng4note, original.
       color: $pinterest-color; //red; //$vine-color; //red; //teng4, modified. teng4note, set the text color when the pointer hovers.
     }
+  }
+
+  .active {//teng4, newly added here below for the whole active.
+      position: relative;
+
+      &:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 4px;
+        //background: mix(#fff, $primary-color, 50%); //teng4note, original.
+        background: $pinterest-color; //red; //teng4, modified. here will change the thick underline line color in the masthead.
+        width: 100%;
+        -webkit-transition: $global-transition;
+        transition: $global-transition;
+        -webkit-transform: scaleX(1); //teng4note, cannot modified to scaleX(1) here, because all text will have the underline always.
+            -ms-transform: scaleX(1); 
+                transform: scaleX(1); /* hide*/ 
+      }
+
+      &:hover:before {
+        -webkit-transform: scaleX(1);
+            -ms-transform: scaleX(1);
+                transform: scaleX(1); /* reveal*/
+      }
   }
 
   button {
@@ -253,32 +280,6 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
-
-    .active {//teng4, newly added here below for the whole active.
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        //background: mix(#fff, $primary-color, 50%); //teng4note, original.
-        background: $pinterest-color; //red; //teng4, modified. here will change the thick underline line color in the masthead.
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(1); //teng4note, cannot modified to scaleX(1) here, because all text will have the underline always.
-            -ms-transform: scaleX(1); 
-                transform: scaleX(1); /* hide*/ 
-      }
-
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
-      }
-  }
   }
 
   .hidden-links {
