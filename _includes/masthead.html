@@ -17,7 +17,7 @@
             {% if link.url == page.url %}
               {% assign active = "active" %}
             {% else %}
-              {% assign active = "" %}
+              {% assign active = "active" %}
             {% endif %}
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
