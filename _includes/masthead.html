@@ -13,7 +13,8 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            {% if link.url == page.url %}
+            <!-- teng4note, Yafei added (active) for coloring the current page title (20240503). -->
+            {% if link.url == page.url %} 
               <li class="masthead__menu-item">
                 <a href="{{ domain }}{{ link.url }}" class="active">{{ link.title }}</a>
               </li>
