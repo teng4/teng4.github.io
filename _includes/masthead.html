@@ -16,11 +16,10 @@
             {% if link.url == page.url %}
               {% assign active = "active" %}
             {% else %}
-              {% assign active = "active" %}
+              {% assign active = '' %}
             {% endif %}
-            <li class="masthead__menu-item {{ active }}">
-
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}" class="{{ active }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
