@@ -293,7 +293,7 @@ nav {
     text-decoration: none;
      
     &.active { //teng4 added whole block of not(.active).
-      color: red; //$orcid-color;
+      color: $pinterest-color; //$orcid-color;
     }
   }
 
