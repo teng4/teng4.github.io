@@ -1,5 +1,5 @@
 ---
-permalink: /about <-- (teng4note, original:) permalink: / -->
+permalink: /about
 title: "Biography"
 author_profile: true
 redirect_from: 
