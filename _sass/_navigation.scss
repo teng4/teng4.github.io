@@ -376,7 +376,8 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  text-transform: uppercase;
+  //text-transform: uppercase; //original.
+  text-transform: capitalize; //teng4 modified.
   letter-spacing: 1px;
   background-color: #fff;
   border: 1px solid $border-color;
@@ -393,8 +394,8 @@
 }
 
 .toc__menu {
-  margin: 0; //original.
-  padding: 0; //original.
+  margin: 0; //teng4note, original.
+  padding: 0; //teng4note, original.
   width: 100%;
   list-style: none;
   font-size: 0.8rem;
@@ -402,7 +403,7 @@
   a {
     display: block; //original.
     //padding: 0.5rem 1rem; //original.
-    padding: 4.5rem 1rem; //teng4, modified.
+    padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
     color: $gray;
     font-size: $type-size-7;
     font-weight: bold;
