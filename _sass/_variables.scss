@@ -133,14 +133,13 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 10px; //original=0px. //teng4note, control the width of a vertical bar on the left side of the right-sidebar.
-$right-sidebar-width        : 10px; //original=0px.
-$right-sidebar-width-wide   : 10px; //original=0px.
+$right-sidebar-width-narrow : 5px; //original=0px. //teng4note, control the width of a vertical bar on the left side of the right-sidebar.
+$right-sidebar-width        : 5px; //original=0px.
+$right-sidebar-width-wide   : 5px; //original=0px.
 
 $susy: (
   columns: 12,
-  //column-width: 120px, //original=120px.
-  column-width: 360px, //original=120px.
+  column-width: 120px, //original=120px.
   gutters: 1/4,
   math: fluid,
   output: float,
