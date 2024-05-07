@@ -10,6 +10,7 @@ author_profile: true
 <!-- {% endif %} -->
 
 {% include base_path %}
+{% include toc %}
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=lY0vLa0AAAAJ&hl=en) profile.
 
