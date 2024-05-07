@@ -394,7 +394,8 @@
 }
 
 .toc__menu {
-  margin: 0; //teng4note, original.
+  //margin: 0; //teng4note, original.
+  margin: 1rem 5rem; //teng4, modified.
   padding: 0; //teng4note, original.
   width: 100%;
   list-style: none;
@@ -402,8 +403,8 @@
 
   a {
     display: block; //original.
-    //padding: 0.5rem 1rem; //original.
-    padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
+    padding: 0.5rem 1rem; //original.
+    //padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
     color: $gray;
     font-size: $type-size-7;
     font-weight: bold;
