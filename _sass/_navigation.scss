@@ -396,8 +396,8 @@
 .toc__menu {
   //teng4note, margin will move the area, and padding will make the area larger.
   margin: 0; //teng4note, original. margin: height downward, width rightward.
-  //padding: 0; //teng4note, original.
-  padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
+  padding: 0; //teng4note, original.
+  //padding: 0.5rem 4rem; //teng4, modified. teng4note: seems this padding only move the area as well.
   width: 100%;
   list-style: none;
   font-size: 0.8rem;
