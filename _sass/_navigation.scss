@@ -393,15 +393,16 @@
 }
 
 .toc__menu {
-  margin: 0;
-  padding: 0;
+  margin: 0; //original.
+  padding: 0; //original.
   width: 100%;
   list-style: none;
   font-size: 0.8rem;
 
   a {
-    display: block;
-    padding: 0.5rem 1rem;
+    display: block; //original.
+    //padding: 0.5rem 1rem; //original.
+    padding: 4.5rem 1rem; //teng4, modified.
     color: $gray;
     font-size: $type-size-7;
     font-weight: bold;
@@ -409,7 +410,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
+      //color: #000; //original.
+      color: $pinterest-color; //teng4, modified.
       background: $lighter-gray;
     }
   }
