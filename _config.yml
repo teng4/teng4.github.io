@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About" #"Teng's Website" #"Your Name / Site Title"
+title                    : "Teng's Website" #"About" #"Teng's Website" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Teng Li"
 description              : &description "personal description"
