@@ -376,8 +376,8 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  text-transform: uppercase; //original.
-  //text-transform: capitalize; //teng4 modified.
+  //text-transform: uppercase; //original.
+  text-transform: capitalize; //teng4 modified.
   letter-spacing: 1px;
   background-color: #fff;
   border: 1px solid $border-color;
@@ -394,9 +394,10 @@
 }
 
 .toc__menu {
-  //margin: 0; //teng4note, original.
-  margin: 10rem 5rem; //teng4, modified.
-  padding: 0; //teng4note, original.
+  //teng4note, margin will move the area, and padding will make the area larger.
+  margin: 0; //teng4note, original. margin: height downward, width rightward.
+  //padding: 0; //teng4note, original.
+  padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
   width: 100%;
   list-style: none;
   font-size: 0.8rem;
