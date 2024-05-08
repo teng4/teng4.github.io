@@ -408,7 +408,8 @@
 
   a {
     display: block; //original.
-    //padding: 0.5rem 1rem; //original.
+    margin-left: -1rem; //teng4, newly added.
+    //padding: 0.5rem 1rem; //original.     
     padding: 0.5rem 2rem; //teng4, modified. teng4note: padding: height, width.
     color: $gray;
     font-size: $type-size-7;
