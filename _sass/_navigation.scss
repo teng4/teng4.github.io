@@ -363,8 +363,8 @@
 .nav__sub-title {
   display: block;
   margin: 0.5rem 0;
-  //padding: 0.5rem 0; //original.
-  padding: 0.5rem 2rem; //teng4, modified.
+  padding: 0.5rem 0; //original.
+  //padding: 0.5rem 2rem; //teng4, modified. nothing changed.
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
   font-weight: bold;
@@ -408,8 +408,8 @@
 
   a {
     display: block; //original.
-    padding: 0.5rem 1rem; //original.
-    //padding: 0.5rem 4rem; //teng4, modified. teng4note: padding: height, width.
+    //padding: 0.5rem 1rem; //original.
+    padding: 0.5rem 2rem; //teng4, modified. teng4note: padding: height, width.
     color: $gray;
     font-size: $type-size-7;
     font-weight: bold;
