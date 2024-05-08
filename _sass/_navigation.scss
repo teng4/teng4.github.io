@@ -352,7 +352,8 @@
 .nav__title {
   margin: 0;
   //padding: 0.5rem 1rem; //original.
-  padding: 0.5rem 1rem; //teng4, modified.
+  //padding: 0.5rem 1rem; //teng4, modified.
+  padding-left: 0.5rem; //teng4, newly added, modified from padding.
   padding-right: 1rem; //teng4, newly added, modified from padding.
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
