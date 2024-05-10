@@ -11,14 +11,14 @@ This is a new new test message. This is a new new test message. This is a new ne
 Do you know what is this? I do not know as well. Do you know what is this? I do not know as well. Do you know what is this? I do not know as well.
 <p></p>
 	
-<table style="width:90%;max-width:800px;border:5px solid red;background-color:#ffffd0;border-spacing:0px;border-collapse:separate;margin-right:0px;margin-left:0px;"><tbody>
+<table style="width:90%;max-width:800px;border:1px solid red;background-color:#ffffd0;border-spacing:0px;border-collapse:separate;margin-right:0px;margin-left:0px;"><tbody>
   <tr style="padding:0px">
     <td style="padding:0px">
 	  
-	<tr onmouseout="smerf_stopv3()" onmouseover="smerf_startv3()" bgcolor=lightblue>
+	<tr onmouseout="tmech_stop()" onmouseover="tmech_start()">
 		<td style="padding:20px;width:25%;vertical-align:middle">
 			<div class="one">
-				<div class="two" id='smerf_imagev3'>
+				<div class="two" id='tmech_image'>
 					<video  width=100% muted autoplay loop>
 						<source src="../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideo.mp4" type="video/mp4">
 							Your browser does not support the video tag.
@@ -27,47 +27,44 @@ Do you know what is this? I do not know as well. Do you know what is this? I do 
 				<img src='../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideoExp3.gif' width=100%>
 			</div>
 			<script type="text/javascript">
-				function smerf_startv3() {
-					document.getElementById('smerf_imagev3').style.opacity = "1";
+				function tmech_start() {
+					document.getElementById('tmech_image').style.opacity = "1";
 				}
 
-				function smerf_stopv3() {
-					document.getElementById('smerf_imagev3').style.opacity = "0";
+				function tmech_stop() {
+					document.getElementById('tmech_image').style.opacity = "0";
 				}
 				smerf_stop()
 			</script>
 		</td>
 		<td style="padding:20px;width:75%;vertical-align:middle">
-			<a href="https://smerf-3d.github.io/">
-				<span class="papertitle">SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration
+			<a href="https://ieeexplore.ieee.org/document/10507161">
+				<span class="papertitle">Iterative Learning for Gravity Compensation in Impedance Control
 				</span>
 			</a>
 			<br>
-			<a href="http://www.stronglyconvex.com/about.html">Daniel Duckworth*</a>,
-			<a href="https://phogzone.com/">Peter Hedman*</a>,
-			<a href="https://creiser.github.io/">Christian Reiser</a>,
-			<a href="">Peter Zhizhin</a>,
-			<a href="">Jean-François Thibert</a>,
-			<a href="https://lucic.ai/">Mario Lučić</a>,
-			<a href="https://szeliski.org/">Richard Szeliski</a>,
-			<strong>Jonathan T. Barron</strong>
+			<a href="http://teng4.github.io/">Teng Li</a>,
+			Amir Zakerimanesh,
+			Yafei Ou,
+			Armin Badre,
+			Mahdi Tavakoli.
 			<br>
-			<em>arXiv</em>, 2023
+			<em>TMECH</em>, 2024
 			<br>
-			<a href="https://smerf-3d.github.io/">project page</a>
+			<a href="https://ieeexplore.ieee.org/document/10507161">IEEE</a>
 			/
-			<a href="https://www.youtube.com/watch?v=zhO8iUBpnCc">video</a>
+			<a href="https://youtu.be/2BzboHYSa68">Demo Video</a>
 			/
-			<a href="https://arxiv.org/abs/2312.07541">arXiv</a>
+			<a href="https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control">ResearchGate</a>
 			<p></p>
 			<p>
-			Distilling a Zip-NeRF into a tiled set of MERFs lets you fly through radiance fields on laptops and smartphones at 60 FPS.
+			A gravity iterative learning (Git) scheme in Cartesian space for gravity compensation, integrating with an impedance controller.
 			</p>
 		</td>
 	</tr>
 
 	<tr onmouseout="smerf_stopv4()" onmouseover="smerf_startv4()">
-		<td style="padding:20px;width:25%;vertical-align:middle;border:8px solid green;">
+		<td style="padding:20px;width:25%;vertical-align:middle;border:5px solid green;">
 			<div class="two" id='smerf_imagev4'>
 				<video  width=100% muted autoplay loop>
 				<source src="../teng4_Papers/p008_TMECH_PDGit/TMECHfinalVideo.mp4" type="video/mp4">
@@ -85,7 +82,7 @@ Do you know what is this? I do not know as well. Do you know what is this? I do 
 				smerf_stop()
 			</script>
 		</td>
-		<td style="padding:20px;width:75%;vertical-align:middle;border:8px solid green;">
+		<td style="padding:20px;width:75%;vertical-align:middle;border:5px solid green;">
 			<a href="https://smerf-3d.github.io/">
 				<span class="papertitle">SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration
 				</span>
@@ -165,7 +162,7 @@ Do you know what is this? I do not know as well. Do you know what is this? I do 
 		</td>
 	</tr>
 
-	<tr onmouseout="smerf_stopv2()" onmouseover="smerf_startv2()">
+	<tr onmouseout="smerf_stopv2()" onmouseover="smerf_startv2()"  bgcolor=lightblue>
 		<td style="padding:20px;width:25%;vertical-align:middle">
 			<div class="one">
 			  <div class="two" id='smerf_imagev2'><video  width=100% muted autoplay loop>
