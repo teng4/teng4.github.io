@@ -114,7 +114,7 @@ Academic Activities
 
 Publications
 ------
-1. **Teng Li**, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System</font>". <font color="DarkGoldenRod"> Journal of Medical Robotics Research</font> <font color="Gray">(JMRR)</font>, pp. 1-15, **2024**. _(<font color="LightGray"> with two 6DOF Quanser's HD<sup>2</sup> robots </font>)_ [[JMRR]()] [[Demo Video]()] [[ResearchGate]()]..
+1. **Teng Li**, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System</font>". <font color="DarkGoldenRod"> Journal of Medical Robotics Research</font> <font color="Gray">(JMRR)</font>, pp. 1-15, **2024**. _(<font color="LightGray"> with two 6DOF Quanser's HD<sup>2</sup> robots </font>)_ [[World Scientific](https://doi.org/10.1142/S2424905X24500041)] [[Demo Video]()] [[ResearchGate]()]..
 
 2. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
 
