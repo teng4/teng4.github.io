@@ -105,6 +105,8 @@ Teaching Assistant (TA) Experience
 
 Academic Activities
 ------
+- Poster Presentation, “Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System”, Canadian Society for Biomechanics 2024 Conference (CSB/SCB 2024), August 19-22, Chateau Lacombe, Edmonton, Alberta, Canada.
+- Guest Talk Presentation, “Robotic Assistance and Haptic Feedback in Arthroscopic Procedures”, ECE464 Guest Talks, MEC 4-1, 10:00-10:30 AM, University of Alberta, Edmonton, Alberta, Canada.
 - Oral & Poster Presentation, 2023 Autonomous Systems Initiative (ASI) Symposium _(ASI Symposium 2023)_, September 14-15, Edmonton, Alberta, Canada.
 - Oral Presentation (in-person), 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems _(IROS 2022)_, October 23-27, Kyoto, Japan, 2022.
 - Recorded oral Presentation (virtual), 2021 IEEE International Conference on Autonomous Systems _(ICAS 2021)_, Montreal, Canada, August 11-13, 2021.
