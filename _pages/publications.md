@@ -33,7 +33,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Papers in journals
 ------
-1. **Teng Li**, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System</font>". <font color="DarkGoldenRod"> Journal of Medical Robotics Research</font> <font color="Gray">(JMRR)</font>, pp. 1-15, **2024**. _(<font color="LightGray"> with two 6DOF Quanser's HD<sup>2</sup> robots </font>)_ [[World Scientific](https://doi.org/10.1142/S2424905X24500041)] [[Demo Video](https://youtu.be/L1JoCNC9hhA)] [[ResearchGate](https://www.researchgate.net/publication/380689222_Robotic_Assistance_and_Haptic_Feedback_in_Arthroscopic_Procedures_Design_and_Preliminary_Evaluation_of_a_Two-Arm_System)]
+1. **Teng Li**, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System</font>". <font color="DarkGoldenRod"> Journal of Medical Robotics Research</font> <font color="Gray">(JMRR)</font>, 09(03n04):2450004, **2024**. _(<font color="LightGray"> with two 6DOF Quanser's HD<sup>2</sup> robots </font>)_ [[World Scientific](https://doi.org/10.1142/S2424905X24500041)] [[Demo Video](https://youtu.be/L1JoCNC9hhA)] [[ResearchGate](https://www.researchgate.net/publication/380689222_Robotic_Assistance_and_Haptic_Feedback_in_Arthroscopic_Procedures_Design_and_Preliminary_Evaluation_of_a_Two-Arm_System)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p009_JMRR_HD2/JMRR_HD2_final_RExp2.gif)](https://youtu.be/L1JoCNC9hhA) |
