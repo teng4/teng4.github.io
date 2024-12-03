@@ -34,7 +34,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Papers in journals
 ------
 
-1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, 6040274, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://teng4.github.io/)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)]
+1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, 6040274, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv]()] [[Demo Video](https://youtu.be/Jokv_RPOXEc)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p010_arXiv_teleOP/teleOP_arXiv_14s.gif)](https://youtu.be/Jokv_RPOXEc) |
