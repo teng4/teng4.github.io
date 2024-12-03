@@ -117,6 +117,8 @@ Academic Activities
 
 Publications
 ------
+1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv </font>, 6040274, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://teng4.github.io/)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)]
+
 1. **Teng Li**, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System</font>". <font color="DarkGoldenRod"> Journal of Medical Robotics Research</font> <font color="Gray">(JMRR)</font>, 09(03n04):2450004, **2024**. _(<font color="LightGray"> with two 6DOF Quanser's HD<sup>2</sup> robots </font>)_ [[World Scientific](https://doi.org/10.1142/S2424905X24500041)] [[Demo Video](https://youtu.be/L1JoCNC9hhA)] [[ResearchGate](https://www.researchgate.net/publication/380689222_Robotic_Assistance_and_Haptic_Feedback_in_Arthroscopic_Procedures_Design_and_Preliminary_Evaluation_of_a_Two-Arm_System)]
 
 2. **Teng Li**, Amir Zakerimanesh, Yafei Ou, Armin Badre, and Mahdi Tavakoli. "<font color="RoyalBlue">Iterative Learning for Gravity Compensation in Impedance Control</font>". <font color="DarkGoldenRod"> IEEE/ASME Transactions on Mechatronics</font> <font color="Gray">(TMECH)</font>, pp. 1-12, **2024**. _(<font color="LightGray"> with a 3DOF PHANToM Premium 1.5A robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10507161)] [[Demo Video](https://youtu.be/2BzboHYSa68)] [[ResearchGate](https://www.researchgate.net/publication/380049055_Iterative_Learning_for_Gravity_Compensation_in_Impedance_Control)]
