@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 <!-- {% include toc %} -->
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=lY0vLa0AAAAJ&hl=en) profile.
+A list of these publications can be also found on my [Google Scholar](https://scholar.google.com/citations?user=lY0vLa0AAAAJ&hl=en) profile.
 
 
 <!-- {% for post in site.publications reversed %} -->
