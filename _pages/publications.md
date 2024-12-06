@@ -34,7 +34,7 @@ A list of these publications can be also found on my [Google Scholar](https://sc
 Papers in journals
 ------
 
-1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, 6040274, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv]()] [[Demo Video](https://youtu.be/Jokv_RPOXEc)]
+1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, arXiv:2412.03619, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://doi.org/10.48550/arXiv.2412.03619)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p010_arXiv_teleOP/teleOP_arXiv_14s.gif)](https://youtu.be/Jokv_RPOXEc) |
