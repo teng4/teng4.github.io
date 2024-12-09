@@ -138,7 +138,7 @@ Papers in conferences
 PhD Thesis
 ------
 
-1. **Teng Li**. **Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery**. PhD thesis. Specialization: Biomedical Engineering. Supervisor: [Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Department: Department of Electrical and Computer Engineering. Institution: University of Alberta. pp. 1-216, April 2024. [[DOI](https://doi.org/10.7939/r3-7b82-rh23)]
+1. **Teng Li**. "<font color="RoyalBlue">Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery</font>". PhD thesis, 202404. Specialization: Biomedical Engineering. Supervisor: [Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Department: Department of Electrical and Computer Engineering. Institution: University of Alberta. pp. 1-216, April 2024. [[DOI](https://doi.org/10.7939/r3-7b82-rh23)]
 
 
 
