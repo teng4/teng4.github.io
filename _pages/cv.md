@@ -115,6 +115,11 @@ Academic Activities
 - Oral Presenter & Student Volunteer, 2015 IEEE World Haptics Conference _(WHC 2015)_, Northwestern University, Evanston, IL, USA, Jun 22-26, 2015.
 
 
+PhD Thesis
+------
+1. **Teng Li**. **Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery**. PhD thesis. Specialization: Biomedical Engineering. Supervisor: [Mahdi Tavakoli](https://www.ece.ualberta.ca/~mtavakol/pmwiki/). Department: Department of Electrical and Computer Engineering. Institution: University of Alberta. pp. 1-216, April 2024. [[DOI](https://doi.org/10.7939/r3-7b82-rh23)]
+
+
 Publications
 ------
 1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, arXiv:2412.03619, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://doi.org/10.48550/arXiv.2412.03619)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)] [[PDF](../teng4_Papers/p010_arXiv_teleOP/2412.03619v1.pdf)]
