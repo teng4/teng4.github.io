@@ -83,11 +83,23 @@ Papers in journals
 ------------
 
 
-
+%
+    \item \textbf{Teng Li}, Sunny~Zhang, Thomas~Looi, and Dale~J~Podolsky. ``\textbf{\color{black} A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design}''. 2025 International Symposium on Medical Robotics {\small \color{gray} (ISMR 2025)}, May 14-16, Georgia Tech, Atlanta, GA, USA, 2025, pp.1-7.
+    {\footnotesize \color{brown}(with a 6DOF Omni robot)} \href{https://youtu.be/8UOYpi7Yun8}{\scriptsize [Demo Video]} [Accepted]
+    % Video: https://youtu.be/8UOYpi7Yun8
 
 
 Papers in conferences
 ------
+1. **Teng Li**, Sunny Zhang, Thomas Looi, and Dale J Podolsky. "<font color="RoyalBlue">A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design</font>". <font color="DarkGoldenRod"> 2025 International Symposium on Medical Robotics</font> _(<font color="Gray">ISMR 2025</font>)_, May 14-16, Georgia Tech, Atlanta, GA, USA, **2025**. pp. 1-7. _(<font color="LightGray"> with a 6DOF Phantom Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video](https://youtu.be/8UOYpi7Yun8)]  [[ResearchGate]()] [Accepted]
+
+      | _Demo video (click to watch the full video)_ |
+      | [![This is a gif image.]()](https://youtu.be/8UOYpi7Yun8) |
+
+      | <details> ABSTRACT: During the process of designing a surgical robotic tool, a teleoperation system is necessary to evaluate the tool design in a simulated environment via virtual surgical tasks. It is possible to build such a system by involving a physical da Vinci Surgical System (dVSS) and using its master tool manipulator (MTM) to teleoperate the virtual robotic tool for evaluation. However, extensive testing and debugging require a more general and portable teleoperation system. In this work, we propose a general framework for establishing a real-to-sim teleoperation system. In the system, the real robot's Cartesian pose is first transformed, scaled, and mapped into the sim robot's coordinate system. Then, the resulting pose, as the desired pose of the sim robot, will proceed through a numerical inverse kinematics (IK) solver. The numerical IK solution is used to update the current joint configuration of the sim robot, which enables an independent and compact teleoperation system. Additionally, the numerical IK solution can be channeled to other simulation platforms for visualizing the sim robot with joint command control, where various virtual surgical tasks can be designed and conducted for further tool evaluation. Preliminary experiments were conducted to evaluate an established Omni-to-Unity teleoperation system, and the system's stability, accuracy, and usability were assessed and verified by the experimental results. The established teleoperation system can be used to streamline and facilitate robotic tool design and evaluation. Furthermore, the proposed real2sim framework can be easily adapted to a variety of application scenarios where both the real and sim robots can be specified by the user for different purposes. </details> |
+
+
+
 1. **Teng Li**, Armin Badre, Hamid D. Taghirad, and Mahdi Tavakoli. "<font color="RoyalBlue">Point-Based 3D Virtual Fixture Generating for Image-Guided and Robot-Assisted Surgery in Orthopedics</font>". <font color="DarkGoldenRod"> 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics</font> _(<font color="Gray">AIM 2023</font>)_, June 28-30, Seattle, Washington, USA, **2023**. pp. 179-186. DOI: 10.1109/AIM46323.2023.10196130. _(<font color="LightGray"> with a 7DOF Franka Emika Panda robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/10196130)] [[Demo Video](https://youtu.be/ROSREHC9zU0)]  [[ResearchGate](https://www.researchgate.net/publication/371782677_Point-Based_3D_Virtual_Fixture_Generating_for_Image-Guided_and_Robot-Assisted_Surgery_in_Orthopedics)]
 
       | _Demo video (click to watch the full video)_ |
