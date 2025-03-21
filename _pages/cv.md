@@ -77,7 +77,7 @@ Visiting Experience
 <!-- * Skill 3 -->
 
 
-Hands-on Experience on Robots
+Robots with Hands-on Experience
 ------
 * 7-DOF dVRK (da Vinci Research Kit) | _(Intuitive Surgical, Sunnyvale, CA, USA; ROS, Ubuntu, C++)_
 * 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
