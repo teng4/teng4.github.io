@@ -83,10 +83,6 @@ Papers in journals
 ------------
 
 
-%
-    \item \textbf{Teng Li}, Sunny~Zhang, Thomas~Looi, and Dale~J~Podolsky. ``\textbf{\color{black} A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design}''. 2025 International Symposium on Medical Robotics {\small \color{gray} (ISMR 2025)}, May 14-16, Georgia Tech, Atlanta, GA, USA, 2025, pp.1-7.
-    {\footnotesize \color{brown}(with a 6DOF Omni robot)} \href{https://youtu.be/8UOYpi7Yun8}{\scriptsize [Demo Video]} [Accepted]
-    % Video: https://youtu.be/8UOYpi7Yun8
 
 
 Papers in conferences
