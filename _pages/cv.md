@@ -124,7 +124,7 @@ PhD Thesis
 
 Publications
 ------
-1. **Teng Li**, Sunny Zhang, Thomas Looi, and Dale J Podolsky. "<font color="RoyalBlue">A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design</font>". <font color="DarkGoldenRod"> 2025 International Symposium on Medical Robotics</font> _(<font color="Gray">ISMR 2025</font>)_, May 14-16, Georgia Tech, Atlanta, GA, USA, **2025**. pp. 1-7. _(<font color="LightGray"> with a 6DOF Phantom Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video](https://youtu.be/8UOYpi7Yun8)]  [[ResearchGate]()] [Accepted]
+1. **Teng Li**, Sunny Zhang, Thomas Looi, and Dale J Podolsky. "<font color="RoyalBlue">A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design</font>". <font color="DarkGoldenRod"> 2025 International Symposium on Medical Robotics</font> _(<font color="Gray">ISMR 2025</font>)_, May 14-16, Georgia Tech, Atlanta, GA, USA, **2025**. pp. 1-7. _(<font color="LightGray"> with a 6DOF Phantom Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video](https://youtu.be/8UOYpi7Yun8)]  [[ResearchGate]()]
    
 1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, arXiv:2412.03619, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://doi.org/10.48550/arXiv.2412.03619)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)] [[PDF](../teng4_Papers/p010_arXiv_teleOP/2412.03619v1.pdf)]
 
