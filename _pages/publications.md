@@ -87,7 +87,7 @@ Papers in journals
 
 Papers in conferences
 ------
-1. **Teng Li**, Sunny Zhang, Thomas Looi, and Dale J Podolsky. "<font color="RoyalBlue">A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design</font>". <font color="DarkGoldenRod"> 2025 International Symposium on Medical Robotics</font> _(<font color="Gray">ISMR 2025</font>)_, May 14-16, Georgia Tech, Atlanta, GA, USA, **2025**. pp. 1-7. _(<font color="LightGray"> with a 6DOF Phantom Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video](https://youtu.be/8UOYpi7Yun8)]  [[ResearchGate]()] 
+1. **Teng Li**, Sunny Zhang, Thomas Looi, and Dale J Podolsky. "<font color="RoyalBlue">A Framework of Real2Sim Teleoperation System for Evaluating Surgical Robotic Tool Design</font>". <font color="DarkGoldenRod"> 2025 International Symposium on Medical Robotics</font> _(<font color="Gray">ISMR 2025</font>)_, May 14-16, Georgia Tech, Atlanta, GA, USA, **2025**. pp. 204-210. _(<font color="LightGray"> with a 6DOF Phantom Omni robot </font>)_ [[IEEE Xplore](https://ieeexplore.ieee.org/document/11025970)] [[Demo Video](https://youtu.be/8UOYpi7Yun8)]  [[ResearchGate](https://www.researchgate.net/publication/392669202_A_Framework_of_Real2Sim_Teleoperation_System_for_Evaluating_Surgical_Robotic_Tool_Design)]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p011_ISMR25_omni2unityIK/20250303_omni2unityIK_ISMR2025_Exp2.gif)](https://youtu.be/8UOYpi7Yun8) |
