@@ -17,9 +17,13 @@ Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robo
 
 Hands-on Experience on Robots
 ======
++ 7-DOF dVRK (da Vinci Research Kit) | _(Intuitive Surgical, Sunnyvale, CA, USA; ROS, Ubuntu, C++)_
+
 + 7-DOF Franka Emika Panda robot | _(Franka Emika GmbH, Munich, Germany; ROS, Ubuntu, C++)_
 
 + 7-DOF Kinova Gen3 Ultra lightweight robot | _(Kinova Robotics, Canada; ROS, Ubuntu, C++)_
+
+* 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; ROS, Ubuntu, C++)_
 
 - 6-DOF HD<sup>2</sup> (High Definition Haptic Device) | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
@@ -27,19 +31,20 @@ Hands-on Experience on Robots
 
 * 2-DOF planar Rehabilitation robot 1.0/2.0 | _(Quanser Inc., Markham, ON, Canada; MATLAB/Simulink)_
 
-* 6-DOF 3D Systems Touch (formerly Phantom Omni) | _(3D Systems, Inc., Cary, NC, USA; MATLAB/Simulink)_
+
 
 
 
 <br>
 
 ------
-> Updated 2024-05-07, Created 2024-04-05.
+> Updated 2024-08-10, Created 2024-04-05.
 
 <!-- End -->
 
 
 <!-- Versions -->
+<!-- Updated 2025-08-10 -->
 <!-- Updated 2024-05-07 -->
 <!-- Updated 2024-05-03 (color title problem solved by Yafei.) -->
 <!-- Updated 2024-04-22 (masthead height problem solved by Yafei.) -->
