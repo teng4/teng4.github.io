@@ -125,7 +125,7 @@ PhD Thesis
 
 Publications
 ------
-1. **Teng Li**, Fiona Mero, Ali A. Nazari, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">Semi-Autonomous RCM Control Scheme for HQP-Based Surgical Robotic Systems with Kinematic Redundancy</font>". <font color="DarkGoldenRod"> The 18th Hamlyn Symposium on Medical Robotics</font> _(<font color="Gray">Hamlyn 2026</font>)_, June 23-25, London, UK, **2026**, pp. 1-2. _(<font color="LightGray"> with a 7DOF Panda robot and a 4DOF customized robotic surgical tool, and a 6DOF Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video]()]  [[ResearchGate]()] [Accepted]
+1. **Teng Li**, Fiona Mero, Ali A. Nazari, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">Semi-Autonomous RCM Strategy for HQP-Based Surgical Robotic Systems with Kinematic Redundancy</font>". <font color="DarkGoldenRod"> The 18th Hamlyn Symposium on Medical Robotics</font> _(<font color="Gray">Hamlyn 2026</font>)_, June 23-25, London, UK, **2026**, pp. 1-2. _(<font color="LightGray"> with a 7DOF Panda robot and a 4DOF customized robotic surgical tool, and a 6DOF Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video]()]  [[ResearchGate]()] [Accepted]
 
 1. Ali A Nazari, Fiona Mero, **Teng Li**, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">Design and Mechanical Characterization of an Elbow-Wrist Instrument for Pediatric Robotic Surgery</font>". <font color="DarkGoldenRod"> The 18th Hamlyn Symposium on Medical Robotics</font> _(<font color="Gray">Hamlyn 2026</font>)_, June 23-25, London, UK, **2026**, pp. 1-2. _(<font color="LightGray"> with a 7DOF Panda robot and a 4DOF customized robotic surgical tool, and a 6DOF Omni robot </font>)_ [[IEEE Xplore]()] [[Demo Video]()]  [[ResearchGate]()] [Accepted]
 
