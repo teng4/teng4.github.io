@@ -39,17 +39,9 @@ Papers in journals
 1. **Teng Li**, Sunny Zhang, Cate Balasubramanian, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">A Configurable Real2Sim Bimanual Teleoperation Framework for Surgical Robotic Tool Design and Evaluation</font>". <font color="DarkGoldenRod"> The International Journal of Medical Robotics and Computer Assisted Surgery</font> _(<font color="Gray">IJMRCAS</font>)_, pp.1--16, 2026. _(<font color="LightGray"> with two 6DOF haptic devices, and two MTMs of the dVRK </font>)_ [[Demo Video](https://youtu.be/DgkqKEoxdtU)] [Accepted]
 
       | _Demo video (click to watch the full video)_ |
-      | [![This is a gif image.]()]([https://youtu.be/Jokv_RPOXEc](https://youtu.be/DgkqKEoxdtU)) |
-
-      | <details> ABSTRACT:
-
-Background: During surgical robotic tool development, teleoperation can provide a valuable means of evaluating tool performance and informing iterative design improvements.
-
-Methods: We propose a compact framework for establishing real2sim bimanual teleoperation systems. Using this framework, an Omni-to-Unity system was established to enable bimanual teleoperation of simulated robotic tools using two portable haptic devices. A dVRK-to-Unity system was also implemented to evaluate the framework with a different leader robot. An application scenario was presented to illustrate its use in robotic tool design.
-
-Results: Both systems were integrated with simulated surgical tasks and operated without observed system failures during the reported experiments. The experiments showed the applicability of the framework to different leader robots and simulated robotic tools with different kinematic configurations.
-
-Conclusions: The proposed framework provides a compact approach to establishing bimanual real2sim teleoperation systems and facilitates the evaluation of different robotic tool designs through simulated surgical tasks. </details> |
+      | [![This is a gif image.]()](https://youtu.be/DgkqKEoxdtU) |
+   
+      | <details> ABSTRACT: **Background:** During surgical robotic tool development, teleoperation can provide a valuable means of evaluating tool performance and informing iterative design improvements. **Methods:** We propose a compact framework for establishing real2sim bimanual teleoperation systems. Using this framework, an Omni-to-Unity system was established to enable bimanual teleoperation of simulated robotic tools using two portable haptic devices. A dVRK-to-Unity system was also implemented to evaluate the framework with a different leader robot. An application scenario was presented to illustrate its use in robotic tool design. **Results:** Both systems were integrated with simulated surgical tasks and operated without observed system failures during the reported experiments. The experiments showed the applicability of the framework to different leader robots and simulated robotic tools with different kinematic configurations. **Conclusions:** The proposed framework provides a compact approach to establishing bimanual real2sim teleoperation systems and facilitates the evaluation of different robotic tool designs through simulated surgical tasks. </details> |
 
 
 1. **Teng Li**. "<font color="RoyalBlue">A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation</font>". <font color="DarkGoldenRod"> arXiv</font>, arXiv:2412.03619, pp. 1-10, **2024**. _(<font color="LightGray"> with two 2DOF Quanser's Rehabilitation robots </font>)_ [[arXiv](https://doi.org/10.48550/arXiv.2412.03619)] [[Demo Video](https://youtu.be/Jokv_RPOXEc)] [[PDF](../teng4_Papers/p010_arXiv_teleOP/2412.03619v1.pdf)]
