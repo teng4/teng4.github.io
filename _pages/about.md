@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Teng Li received his Ph.D. degree in Biomedical Engineering from University of Alberta, Canada, in 2024, and Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. Currently, he is a Postdoctoral Research Fellow at The Hospital for Sick Children (SickKids, Toronto, Canada). His research interests include surgical robotics, robot control systems, impedance control, physical human-robot interaction (pHRI), compliant control, teleoperation, machine learning, and haptics.
+Teng Li received his Ph.D. degree in Biomedical Engineering from the University of Alberta, Canada, in 2024, his Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. He is currently a Postdoctoral Research Fellow at The Hospital for Sick Children (SickKids) and the University of Toronto, Toronto, Canada. His research interests include surgical robotics, robot control, teleoperation, physical human-robot interaction (pHRI), compliant control, haptics, and learning-based robotics.
 
 
 Research Interests
 ======
-Robot Control Systems, Surgical Robotics, Compliant Control, Physical Human-Robot Interaction (pHRI), Teleoperation, Impedance Control, Admittance Control, Machine Learning, and Haptics.
+Robot Control Systems, Surgical Robotics, Physical Human-Robot Interaction (pHRI), Teleoperation, Compliant Control, Haptics, and Learning-Based Robotics.
 
 
 Hands-on Experience on Robots
@@ -38,12 +38,13 @@ Hands-on Experience on Robots
 <br>
 
 ------
-> Updated 2025-08-10, Created 2024-04-05.
+> Updated 2026-09-22, Created 2024-04-05.
 
 <!-- End -->
 
 
 <!-- Versions -->
+<!-- Updated 2026-09-22 -->
 <!-- Updated 2025-08-10 -->
 <!-- Updated 2024-05-07 -->
 <!-- Updated 2024-05-03 (color title problem solved by Yafei.) -->
