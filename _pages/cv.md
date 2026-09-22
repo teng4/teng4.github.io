@@ -126,7 +126,7 @@ PhD Thesis
 
 Publications
 ------
-1. **Teng Li**, Sunny Zhang, Cate Balasubramanian, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">A Configurable Real2Sim Bimanual Teleoperation Framework for Surgical Robotic Tool Design and Evaluation</font>". <font color="DarkGoldenRod"> The International Journal of Medical Robotics and Computer Assisted Surgery</font> _(<font color="Gray">IJMRCAS</font>)_, pp.1--16, 2026. _(<font color="LightGray"> with two 6DOF haptic devices, and two MTMs of the dVRK </font>)_ [[Demo Video](https://youtu.be/DgkqKEoxdtU)] [Accepted]
+1. **Teng Li**, Sunny Zhang, Cate Balasubramanian, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">A Configurable Real2Sim Bimanual Teleoperation Framework for Surgical Robotic Tool Design and Evaluation</font>". <font color="DarkGoldenRod"> The International Journal of Medical Robotics and Computer Assisted Surgery</font> _(<font color="Gray">IJMRCAS</font>)_: e70235, 2026. _(<font color="LightGray"> with two 6DOF haptic devices, and two MTMs of the dVRK </font>)_ [[Demo Video](https://youtu.be/DgkqKEoxdtU)] [Accepted]
 
 1. **Teng Li**, Fiona Mero, Ali A. Nazari, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">Semi-Autonomous RCM Strategy for HQP-Based Surgical Robotic Systems with Kinematic Redundancy</font>". <font color="DarkGoldenRod"> The 18th Hamlyn Symposium on Medical Robotics</font> _(<font color="Gray">Hamlyn 2026</font>)_, June 23-26, London, UK, **2026**, pp. 131-132. _(<font color="LightGray"> with two 7DOF Panda robots and two 4DOF customized robotic surgical tools, and two 6DOF Omni robots </font>)_ [[Demo Video](https://youtu.be/tLN1W0Cbxcg)]
 
