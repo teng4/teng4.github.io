@@ -36,7 +36,7 @@ A list of these publications can be also found on my [Google Scholar](https://sc
 Papers in journals
 ------
 
-1. **Teng Li**, Sunny Zhang, Cate Balasubramanian, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">A Configurable Real2Sim Bimanual Teleoperation Framework for Surgical Robotic Tool Design and Evaluation</font>". <font color="DarkGoldenRod"> The International Journal of Medical Robotics and Computer Assisted Surgery</font> _(<font color="Gray">IJMRCAS</font>)_, pp.1--16, 2026. _(<font color="LightGray"> with two 6DOF haptic devices, and two MTMs of the dVRK </font>)_ [[Demo Video](https://youtu.be/DgkqKEoxdtU)] [Accepted]
+1. **Teng Li**, Sunny Zhang, Cate Balasubramanian, Thomas Looi, and Dale J. Podolsky. "<font color="RoyalBlue">A Configurable Real2Sim Bimanual Teleoperation Framework for Surgical Robotic Tool Design and Evaluation</font>". <font color="DarkGoldenRod"> The International Journal of Medical Robotics and Computer Assisted Surgery</font> _(<font color="Gray">IJMRCAS</font>)_: e70235, 2026. _(<font color="LightGray"> with two 6DOF haptic devices, and two MTMs of the dVRK </font>)_ [[Demo Video](https://youtu.be/DgkqKEoxdtU)] [Accepted]
 
       | _Demo video (click to watch the full video)_ |
       | [![This is a gif image.](../teng4_Papers/p012_IJMRCAS_biteleop/IJMRCAS_real2sim_biteleop_v8_20s.gif)](https://youtu.be/DgkqKEoxdtU) |
