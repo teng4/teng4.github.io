@@ -27,7 +27,7 @@ Work Experience
    - **The Hospital for Sick Children (SickKids), University of Toronto** _(Toronto, Ontario, Canada)_ 
    - **Postdoctoral Research Fellow**, Surgical Robotics
    - **Research Project**: "Developing a Novel Robotic System for Transoral Robotic Surgery and Cleft Palate Repair"
-   - **Supervisor**: Dr. Dale J. Podolsky and Dr. Thomas Looi 
+   - **Supervisors**: Dr. Dale J. Podolsky, and Dr. Thomas Looi 
 
 Education
 ------
@@ -39,14 +39,14 @@ Education
  - **2019.09 -- 2024.04** 
    - **University of Alberta** _(Edmonton, Alberta, Canada)_ 
    - **PhD**, Biomedical Engineering (Robot Control Systems) 
-   - **Supervisor**: [Dr. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/), and Dr. Armin Badre 
+   - **Supervisors**: [Dr. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/), and Dr. Armin Badre 
    - **Thesis**: "Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery" [[DOI](https://doi.org/10.7939/r3-7b82-rh23)]
  <!-- %\href{https://youtu.be/ETY3jDpKOFw}{\scriptsize [Presentation Video]} -->
 
  - **2014.09 -- 2019.06** 
    - **Beihang University** _(Beijing, China)_ 
    - **PhD**, Mechanical Design and Theory 
-   - **Supervisor**: Dr. Yuru Zhang, and Dr. Dangxiao Wang 
+   - **Supervisors**: Dr. Yuru Zhang, and Dr. Dangxiao Wang 
    - **Thesis**: "The Measurement of Working Memory and Force Control Ability during Haptic Interaction" 
 
 <!-- - **2019.09 -- 2024.04** -->
