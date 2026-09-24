@@ -26,7 +26,7 @@ Work Experience
 - **2024.06 -- present** 
    - **The Hospital for Sick Children (SickKids), University of Toronto** _(Toronto, Ontario, Canada)_ 
    - **Postdoctoral Research Fellow**, Surgical Robotics
-   - **Research Project**: "Developing a Novel Robotic System for Transoral Surgery and Cleft Palate Repair"
+   - **Research Project**: "Developing a Novel Robotic System for Transoral Robotic Surgery and Cleft Palate Repair"
    - **Supervisor**: Dr. Dale J. Podolsky and Dr. Thomas Looi 
 
 Education
