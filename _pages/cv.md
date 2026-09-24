@@ -21,14 +21,33 @@ The PDF version of my CV can be found [here]().
 
 ------------
 
-
+Work Experience
+------
+- **2024.06 -- present** 
+   - **The Hospital for Sick Children (SickKids), University of Toronto** _(Toronto, Ontario, Canada)_ 
+   - **Postdoctoral Research Fellow**, Surgical Robotics
+   - **Research Project**: "Developing a Novel Robotic System for Transoral Surgery and Cleft Palate Repair"
+   - **Supervisor**: Dr. Dale J. Podolsky and Dr. Thomas Looi 
 
 Education
 ------
-- **Ph.D.**, in Biomedical Engineering, **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04
-- **Ph.D.**, in Mechanical Design and Theory, **Beihang University** _(Beijing, China)_, 2019.06
-- **M.Eng.**, in Mechanical Manufacture & Automation, **Tianjin University of Science & Technology** _(Tianjin, China)_, 2014.03
+<!-- - **Ph.D.**, in Biomedical Engineering, **University of Alberta** _(Edmonton, Alberta, Canada)_, 2024.04 -->
+<!-- - **Ph.D.**, in Mechanical Design and Theory, **Beihang University** _(Beijing, China)_, 2019.06 -->
+<!-- - **M.Eng.**, in Mechanical Manufacture & Automation, **Tianjin University of Science & Technology** _(Tianjin, China)_, 2014.03 -->
 <!-- * B.Mgt., in Project Management, Tianjin University, 2009.06 -->
+
+ - **2019.09 -- 2024.04** 
+   - **University of Alberta** _(Edmonton, Alberta, Canada)_ 
+   - **PhD**, Biomedical Engineering (Robot Control Systems) 
+   - **Supervisor**: [Dr. Mahdi Tavakoli](http://www.ece.ualberta.ca/~mtavakol/pmwiki/), and Dr. Armin Badre 
+   - **Thesis**: "Developing a Two-Arm Robot-Assisted System for Arthroscopic Surgery" [[DOI](https://doi.org/10.7939/r3-7b82-rh23)]
+ <!-- %\href{https://youtu.be/ETY3jDpKOFw}{\scriptsize [Presentation Video]} -->
+
+ - **2014.09 -- 2019.06** 
+   - **Beihang University** _(Beijing, China)_ 
+   - **PhD**, Mechanical Design and Theory 
+   - **Supervisor**: Dr. Yuru Zhang, and Dr. Dangxiao Wang 
+   - **Thesis**: "The Measurement of Working Memory and Force Control Ability during Haptic Interaction" 
 
 <!-- - **2019.09 -- 2024.04** -->
 <!--   - **University of Alberta** _(Edmonton, Alberta, Canada)_ -->
@@ -59,7 +78,7 @@ Visiting Experience
 - 2016.09 -- 2017.09
   - Karolinska Institutet _(Stockholm, Sweden)_
   - Visiting PhD Student, Developmental Cognitive Neuroscience
-<!--   - **Supervisor**: Prof. Torkel Klingberg -->
+  - **Supervisor**: Prof. Torkel Klingberg 
 
 <!-- * Summer 2015: Research Assistant -->
 <!--   * Github University -->
@@ -107,6 +126,7 @@ Teaching Assistant (TA) Experience
 
 Academic Activities
 ------
+- Associate Editor, ICRA 2027.
 - Initiator, Organizer, "BioRob 2026 Competition: Dexterous Manipulation for Robotic Surgery", The 11th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics _(BioRob 2026)_, August 1–4, 2026, Edmonton, Alberta, Canada. [[Website](https://sites.google.com/view/biorob-2026-competition/home)]
 - Poster Presentation, “Robotic Assistance and Haptic Feedback in Arthroscopic Procedures: Design and Preliminary Evaluation of a Two-Arm System”, Canadian Society for Biomechanics 2024 Conference (CSB/SCB 2024), August 19-22, Chateau Lacombe, Edmonton, Alberta, Canada.
 - Guest Talk Presentation, “Robotic Assistance and Haptic Feedback in Arthroscopic Procedures”, ECE464 Guest Talks, University of Alberta, Edmonton, Alberta, Canada.
