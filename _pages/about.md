@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Teng Li received his Ph.D. degree in Biomedical Engineering from the University of Alberta, Canada, in 2024, his Ph.D. degree in Mechanical Design and Theory from Beihang University, Beijing, China, in 2019, and his M.Eng. degree in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, Tianjin, China, in 2014. He is currently a Postdoctoral Research Fellow at The Hospital for Sick Children (SickKids) and the University of Toronto, Toronto, Canada. His research interests include surgical robotics, robot control, teleoperation, physical human-robot interaction (pHRI), compliant control, haptics, and learning-based robotics.
+Teng Li is currently a Postdoctoral Research Fellow at The Hospital for Sick Children (SickKids) and the University of Toronto, Canada. His research interests include surgical robotics, robot control, intelligent control, robotic manipulation, teleoperation, physical human-robot interaction (pHRI), compliant control, haptics, and learning-based robotics, with an emerging focus on humanoid robotics and autonomous manipulation.
+
+He received his Ph.D. in Biomedical Engineering from the University of Alberta, Canada, in 2024, his Ph.D. in Mechanical Design and Theory from Beihang University, China, in 2019, and his M.Eng. in Mechanical Manufacturing and Automation from Tianjin University of Science and Technology, China, in 2014.
 
 
 Research Interests
