@@ -14,7 +14,15 @@ He received his Ph.D. in Biomedical Engineering from the University of Alberta, 
 
 Research Interests
 ======
-Robot Control Systems, Surgical Robotics, Physical Human-Robot Interaction (pHRI), Teleoperation, Compliant Control, Haptics, and Learning-Based Robotics.
+- Surgical Robotics
+- Robot Control Systems
+- Intelligent Control
+- Robotic Manipulation
+- Teleoperation
+- Physical Human-Robot Interaction (pHRI)
+- Compliant Control
+- Haptics
+- Learning-Based Robotics
 
 
 Hands-on Experience on Robots
